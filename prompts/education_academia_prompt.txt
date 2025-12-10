@@ -1,0 +1,64 @@
+# Dialogue Scenario Generator
+
+## Context Configuration
+- **Country**: {country}
+- **Culture**: {country_2}
+- **Language Context**: [Dialectal Arabic]
+- **Target Output**: 500+ conversations with diverse topics
+
+## Base Framework
+```json
+{{
+    "genre": "Education & Academia",
+    "type": "dialogue",
+    "domains": [
+        "Classroom Discussions",
+        "Parent-Teacher Conferences",
+        "Library Interactions",
+        "Group Project Work",
+        "Tutoring Session",
+        "Schoolyard Conversations"
+    ],
+    "personas": [
+        "Teacher", "Professor", "Student", "Parent",
+        "Librarian", "School Administrator", "Tutor"
+    ]
+}}
+```
+
+## Task Requirements
+
+Generate dialogue combinations using the following structure:
+
+### Output Format
+```json
+{{
+    "id": [unique_identifier],
+    "participants": "[Me] - [persona]",
+    "cultural_context": "{country_2}",
+    "domain": "[applicable_domain]",
+    "topics": [
+        "topic_1_{country_2}_context",
+        "topic_2_{country_2}_context",
+        // ... 8 more topics
+    ]
+}}
+```
+
+### Instructions
+1. **Create 55 combinations** of domains and personas relevant to {country_2} social contexts
+2. **Generate 10 culturally-specific topics** for each combination
+3. **Ensure topics reflect**:
+   - {country_2} educational system and practices
+   - Local academic culture and values
+   - School/university-specific contexts
+   - Traditional and modern educational approaches
+4. **Maintain variety** across all 500+ conversations
+5. **Structure output** as a complete JSON array
+
+### Example Output Structure
+```json
+{json_output_example}
+```
+
+Please generate all possible meaningful combinations with their respective {country_2}-contextualized topics.

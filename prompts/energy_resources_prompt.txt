@@ -1,0 +1,65 @@
+# Energy & Resources Dialogue Scenario Generator
+
+## Context Configuration
+- **Country**: {country}
+- **Industry Focus**: Energy & Resources
+- **Language Context**: [Dialectal Arabic]
+- **Target Output**: 500+ conversations with diverse topics
+
+## Base Framework
+```json
+{{
+    "genre": "Energy & Resources",
+    "type": "dialogue",
+    "domains": [
+        "Oil & Gas Field Operations",
+        "Renewable Energy Project (Solar/Wind)", 
+        "At the Fuel Station",
+        "Mining Operations",
+        "Energy & Water Ministry Consultation",
+        "Utility Company Interactions"
+    ],
+    "personas": [
+        "Petroleum Engineer", "Field Technician", "Solar Panel Installer", 
+        "Geologist", "Government Regulator", "Utility Customer Service Rep", 
+        "Fuel Station Attendant"
+    ]
+}}
+```
+
+## Task Requirements
+
+Generate dialogue combinations using the following structure:
+
+### Output Format
+```json
+{{
+    "id": [unique_identifier],
+    "participants": "[Me] - [persona]",
+    "cultural_context": "{country_2} Energy Sector",
+    "domain": "[applicable_domain]",
+    "topics": [
+        "topic_1_{country_2}_energy_context",
+        "topic_2_{country_2}_energy_context",
+        // ... 8 more topics
+    ]
+}}
+```
+
+### Instructions
+1. **Create 55 combinations** of domains and personas relevant to {country}'s energy & resources sector
+2. **Generate 10 industry-specific topics** for each combination
+3. **Ensure topics reflect**:
+   - {country}'s energy infrastructure
+   - Local regulations and government policies
+   - Regional energy challenges and opportunities
+   - Industry practices and technical procedures
+4. **Maintain variety** across all 500+ conversations
+5. **Structure output** as a complete JSON array
+
+### Example Output Structure
+```json
+{json_output_example}
+```
+
+Please generate all possible meaningful combinations with their respective {country_2}-contextualized topics.

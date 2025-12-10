@@ -1,0 +1,63 @@
+# Dialogue Scenario Generator
+
+## Context Configuration
+- **Country**: {country}
+- **Culture**: {country_2}
+- **Language Context**: [Dialectal Arabic]
+- **Target Output**: 500+ conversations with diverse topics
+
+## Base Framework
+```json
+{{
+    "genre": "Everyday & Social",
+    "type": "dialogue",
+    "domains": [
+        "Greetings & Small Talk",
+        "Family Conversations", 
+        "Chatting with Friends",
+        "Giving/Asking for Directions",
+        "Discussing Weather"
+    ],
+    "personas": [
+        "Mother", "Father", "Sibling", "Grandparent", 
+        "Friend", "Neighbor", "Stranger", "Roommate", "Colleague"
+    ]
+}}
+```
+
+## Task Requirements
+
+Generate dialogue combinations using the following structure:
+
+### Output Format
+```json
+{{
+    "id": [unique_identifier],
+    "participants": "[Me] - [persona]",
+    "cultural_context": "{country_2}",
+    "domain": "[applicable_domain]",
+    "topics": [
+        "topic_1_{country_2}_context",
+        "topic_2_{country_2}_context",
+        // ... 8 more topics
+    ]
+}}
+```
+
+### Instructions
+1. **Create 55 combinations** of domains and personas relevant to {country_2} social contexts
+2. **Generate 10 culturally-specific topics** for each combination
+3. **Ensure topics reflect**:
+   - {country_2} traditions and customs
+   - Local social dynamics
+   - Cultural values and practices
+   - Regional specifics where applicable
+4. **Maintain variety** across all 500+ conversations
+5. **Structure output** as a complete JSON array
+
+### Example Output Structure
+```json
+{json_output_example}
+```
+
+Please generate all possible meaningful combinations with their respective {country_2}-contextualized topics.

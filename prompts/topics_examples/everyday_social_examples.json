@@ -1,0 +1,298 @@
+[
+    {
+        "id": 0,
+        "participants": "Me - Mother",
+        "cultural_context": "Moroccan",
+        "domain": "Family Conversations",
+        "topics": [
+            "Discussing my final grades at Mohammed V University",
+            "Planning my cousin's upcoming wedding party in Marrakech",
+            "Complaining about the rising prices at the souk",
+            "Arranging our summer vacation to Ifrane or Taghazout",
+            "Talking about the new TGV line to Agadir",
+            "Checking on the health of relatives in the village (bled)",
+            "Debating which kaftan to wear for Eid al-Adha",
+            "My brother's plans to study abroad in France",
+            "The importance of 'silat al-rahim' (maintaining family ties)",
+            "Reminiscing about past Ramadan gatherings and ftour"
+        ]
+    },
+    {
+        "id": 1,
+        "participants": "Me - Friend",
+        "cultural_context": "Moroccan",
+        "domain": "Socializing & Daily Life",
+        "topics": [
+            "Commenting on the latest Raja vs. Wydad football match",
+            "Making plans to go to a new cafe in Agdal, Rabat",
+            "Joking about the traffic on Boulevard Abdelmoumen in Casablanca",
+            "Discussing a recent popular Gnawa music festival",
+            "Sharing funny videos from Moroccan influencers"
+        ]
+    },
+    {
+        "id": 0,
+        "participants": "Me - Mother",
+        "cultural_context": "Egyptian",
+        "domain": "Family Conversations",
+        "topics": [
+            "Discussing my final grades at Cairo University",
+            "Planning my cousin's upcoming wedding party",
+            "Complaining about the rising prices of groceries",
+            "Arranging our summer vacation to Alexandria",
+            "Talking about the new administrative capital",
+            "Checking on the health of elderly relatives",
+            "Debating which Ramadan series to watch",
+            "My sister's engagement plans",
+            "The importance of maintaining family ties",
+            "Reminiscing about old family gatherings"
+        ]
+    },
+    {
+        "id": 1,
+        "participants": "Me - Friend",
+        "cultural_context": "Egyptian",
+        "domain": "Socializing & Daily Life",
+        "topics": [
+            "Commenting on the latest Al Ahly football match",
+            "Making plans to go to a new cafe in Zamalek",
+            "Joking about the traffic on the 6th of October Bridge",
+            "Discussing a recent popular movie or song",
+            "Sharing memes about current events"
+        ]
+    },
+    {
+        "id": 2,
+        "participants": "Me - Aunt",
+        "cultural_context": "Syrian",
+        "domain": "Family Check-ins",
+        "topics": [
+            "Asking about the availability of electricity and fuel",
+            "Sharing news about relatives who have emigrated",
+            "Reminiscing about festivals in the Old City of Damascus",
+            "Discussing the difficulty of securing daily necessities",
+            "Checking on the safety of family members in other cities"
+        ]
+    },
+    {
+        "id": 3,
+        "participants": "Me - University Classmate",
+        "cultural_context": "Syrian",
+        "domain": "Student Life",
+        "topics": [
+            "How the ongoing conflict impacts our studies",
+            "Sharing notes for an upcoming exam",
+            "Discussing future career prospects inside or outside Syria",
+            "The best places to find reliable internet for research",
+            "Planning a small study group meeting"
+        ]
+    },
+    {
+        "id": 4,
+        "participants": "Me - Grandfather",
+        "cultural_context": "Palestinian",
+        "domain": "Intergenerational Conversations",
+        "topics": [
+            "Stories about our family's village before 1948",
+            "The quality of the olive oil from this year's harvest",
+            "Discussing the political situation and local news",
+            "The importance of education and holding onto our culture",
+            "Recalling old songs and poetry about the homeland"
+        ]
+    },
+    {
+        "id": 5,
+        "participants": "Me - Colleague",
+        "cultural_context": "Palestinian",
+        "domain": "Workplace Conversations",
+        "topics": [
+            "Navigating checkpoints and the daily commute to work",
+            "Sharing news about permits and travel restrictions",
+            "Organizing a community support initiative through work",
+            "Discussing the local economy and job opportunities",
+            "Making plans for the weekend in Ramallah"
+        ]
+    },
+    {
+        "id": 6,
+        "participants": "Me - Taxi Driver",
+        "cultural_context": "Jordanian",
+        "domain": "Daily Errands & Small Talk",
+        "topics": [
+            "Commenting on the traffic in Amman",
+            "Discussing the rise in fuel and food prices",
+            "His opinion on the best place to eat Mansaf",
+            "Talking about the weather and the changing seasons",
+            "Sharing stories about interesting tourists he has met"
+        ]
+    },
+    {
+        "id": 7,
+        "participants": "Me - Cousin",
+        "cultural_context": "Jordanian",
+        "domain": "Family & Social Life",
+        "topics": [
+            "Planning a weekend trip to Wadi Rum or the Dead Sea",
+            "Gossiping about a recent family gathering ('azoumeh')",
+            "Discussing engagement and wedding plans in the family",
+            "Talking about job opportunities and the economy",
+            "Debating the best local cafes for 'knafeh'"
+        ]
+    },
+    {
+        "id": 8,
+        "participants": "Me - Expat Colleague",
+        "cultural_context": "Emirati",
+        "domain": "Workplace & Lifestyle",
+        "topics": [
+            "Discussing the best new restaurants and brunch spots in Dubai",
+            "Planning a weekend trip for desert camping",
+            "Navigating the corporate culture and work-life balance",
+            "Talking about the high cost of rent and living",
+            "Sharing travel plans for the next public holiday"
+        ]
+    },
+    {
+        "id": 9,
+        "participants": "Me - Father",
+        "cultural_context": "Emirati",
+        "domain": "Family Conversations",
+        "topics": [
+            "Discussing business and real estate investments",
+            "Planning activities for the UAE National Day",
+            "Inquiring about my studies and future career",
+            "Talking about the latest government announcements and projects",
+            "Arranging a visit to see extended family"
+        ]
+    },
+    {
+        "id": 10,
+        "participants": "Me - Friend",
+        "cultural_context": "Saudi Arabian",
+        "domain": "Socializing & Entertainment",
+        "topics": [
+            "Discussing the latest events and concerts during Riyadh Season",
+            "Planning a road trip to Al-Ula or Jeddah",
+            "Talking about the social changes happening under Vision 2030",
+            "Debating which team will win the Saudi Pro League",
+            "Reviewing a new blockbuster movie seen at a local cinema"
+        ]
+    },
+    {
+        "id": 11,
+        "participants": "Me - Uncle",
+        "cultural_context": "Saudi Arabian",
+        "domain": "Family Majlis (Gathering)",
+        "topics": [
+            "Discussing family history and tribal connections",
+            "Planning for the family's Hajj or Umrah trip",
+            "Talking about the national stock market (Tadawul)",
+            "Asking about local community news and events",
+            "Sharing business advice and networking"
+        ]
+    },
+    {
+        "id": 12,
+        "participants": "Me - University Friend",
+        "cultural_context": "Algerian",
+        "domain": "Student Life & Politics",
+        "topics": [
+            "Debating recent political events and social movements",
+            "The performance of the national football team, 'Les Fennecs'",
+            "Complaining about university administration and bureaucracy",
+            "Making plans to visit the historic Casbah of Algiers",
+            "Discussing French and Algerian literature and film"
+        ]
+    },
+    {
+        "id": 13,
+        "participants": "Me - Neighbor",
+        "cultural_context": "Algerian",
+        "domain": "Neighborhood Small Talk",
+        "topics": [
+            "Commenting on the price of bread and other staples",
+            "Sharing news about the local neighborhood",
+            "Discussing the latest match of a local football club",
+            "Reminiscing about historical events",
+            "Talking about family news and children's achievements"
+        ]
+    },
+    {
+        "id": 14,
+        "participants": "Me - Elder",
+        "cultural_context": "Mauritanian",
+        "domain": "Traditional Discussions",
+        "topics": [
+            "Reciting and interpreting classical Hassaniya poetry",
+            "Discussing matters of Islamic jurisprudence and scholarship",
+            "Talking about the importance of nomadic traditions",
+            "News about the price of livestock at the market",
+            "Genealogy and maintaining tribal ties"
+        ]
+    },
+    {
+        "id": 15,
+        "participants": "Me - Merchant",
+        "cultural_context": "Mauritanian",
+        "domain": "Market & Commerce",
+        "topics": [
+            "Bargaining for the price of tea and sugar",
+            "Discussing the quality of fabrics and textiles",
+            "Asking for news from trade routes across the Sahara",
+            "The impact of the weather on business",
+            "Sharing community news and information"
+        ]
+    },
+    {
+        "id": 16,
+        "participants": "Me - Neighbor",
+        "cultural_context": "Sudanese",
+        "domain": "Daily Life & Community",
+        "topics": [
+            "Dealing with the daily power and water cuts",
+            "Discussing the sharp increase in the cost of living",
+            "Sharing updates on the political situation",
+            "Organizing a neighborhood coffee ceremony ('Jebena')",
+            "Checking in on each other's families"
+        ]
+    },
+    {
+        "id": 17,
+        "participants": "Me - Cousin",
+        "cultural_context": "Sudanese",
+        "domain": "Family & University Life",
+        "topics": [
+            "The challenges of attending university with ongoing disruptions",
+            "Planning for an upcoming family wedding or social event",
+            "Sharing news from relatives in other parts of the country",
+            "Discussing opportunities to find work after graduation",
+            "Reminiscing about the beauty of the Nile river"
+        ]
+    },
+    {
+        "id": 18,
+        "participants": "Me - Friends",
+        "cultural_context": "Yemeni",
+        "domain": "Social Gathering (Qat Chew)",
+        "topics": [
+            "Analyzing the latest political news and rumors",
+            "Discussing the daily struggle to find fuel and basic goods",
+            "Sharing poetry, proverbs, and historical stories",
+            "Debating the future of the country",
+            "Sharing personal news and checking on each other's well-being"
+        ]
+    },
+    {
+        "id": 19,
+        "participants": "Me - Shopkeeper",
+        "cultural_context": "Yemeni",
+        "domain": "Marketplace Interactions",
+        "topics": [
+            "Asking about the availability of imported goods",
+            "The fluctuating exchange rate of the currency",
+            "Discussing the quality of the local coffee bean harvest",
+            "Sharing news from his home village",
+            "The challenges of running a business in the current climate"
+        ]
+    }
+]

@@ -1,0 +1,397 @@
+[{
+    "id": 0,
+    "participants": "Me - Farmer",
+    "cultural_context": "Moroccan",
+    "domain": "On the Farm (Daily Operations)",
+    "topics": [
+        "Managing water allocation from the 'khettaras' (traditional irrigation canals) for the palm grove",
+        "Discussing the upcoming argan nut harvest and coordinating with the women's cooperative for processing",
+        "Checking the health of olive trees in the foothills of the Atlas Mountains before the pressing season",
+        "Planning the rotation of wheat and barley crops in the rain-fed fields of the Saiss plain",
+        "Assessing the quality of saffron flowers in the Taliouine region during the early morning harvest",
+        "Coordinating with shepherds about grazing rights for their flocks on fallow lands",
+        "Maintaining the drip irrigation system for the tomato greenhouses in the Souss Valley",
+        "Discussing the impact of recent heatwaves on the citrus groves in the Gharb region",
+        "Dealing with the fruit fly infestation affecting the fig and pomegranate trees",
+        "Arranging transport for the fresh produce to the weekly souk (local market)"
+    ]
+},
+{
+    "id": 1,
+    "participants": "Me - Wholesale Buyer",
+    "cultural_context": "Moroccan",
+    "domain": "At the Wholesale Market",
+    "topics": [
+        "Negotiating prices for a large consignment of high-quality dates from the Tafilalet region",
+        "Arranging the logistics for transporting fresh mint from the Meknes region to Casablanca",
+        "Inspecting the quality of tomatoes and bell peppers for export to the European market at the Agadir wholesale market",
+        "Discussing payment terms for a bulk purchase of 'Beldi' (local) almonds and walnuts",
+        "Sourcing authentic, certified argan oil directly from a cooperative in the Essaouira region",
+        "Checking the quality and origin of saffron shipments arriving from Taliouine",
+        "Coordinating refrigerated trucks for a large order of strawberries and raspberries destined for export",
+        "Discussing customs and certification requirements for exporting organic olive oil",
+        "Securing a consistent supply of oranges and clementines for a national juice production company",
+        "Forecasting demand for lamb and other key ingredients for the upcoming Eid al-Adha festival"
+    ]
+},
+    {
+        "id": 0,
+        "participants": "Me - Farmer",
+        "cultural_context": "Egyptian",
+        "domain": "On the Farm (Daily Operations)",
+        "topics": [
+            "Managing irrigation schedules from the Nile canals",
+            "Discussing the upcoming cotton harvest in the Delta",
+            "Caring for date palm groves near Luxor",
+            "Planning for the sugarcane cutting season",
+            "Assessing the health of citrus trees in Fayoum",
+            "Coordinating labor for the rice planting season",
+            "Maintaining water pumps and filtration systems",
+            "Discussing crop rotation to manage soil nutrients",
+            "Dealing with pests affecting tomato and cucumber crops",
+            "Planning the logistics of getting produce to the closest local market"
+        ]
+    },
+    {
+        "id": 1,
+        "participants": "Me - Wholesale Buyer",
+        "cultural_context": "Egyptian",
+        "domain": "At the Wholesale Market",
+        "topics": [
+            "Negotiating prices for a bulk purchase of long-staple cotton",
+            "Arranging logistics for transporting rice from Damietta",
+            "Inspecting the quality of oranges for export at the Obour Market",
+            "Discussing payment terms for a large shipment of onions",
+            "Sourcing specific varieties of mangoes from Ismailia",
+            "Checking the quality of garlic shipments from Beni Suef",
+            "Coordinating refrigerated transport for strawberries",
+            "Discussing import regulations for agricultural goods",
+            "Securing a consistent supply of potatoes for a processing plant",
+            "Forecasting demand for the upcoming holiday season"
+        ]
+    },
+    {
+        "id": 2,
+        "participants": "Me - Farmer",
+        "cultural_context": "Syrian",
+        "domain": "On the Farm (Daily Operations)",
+        "topics": [
+            "Overseeing the olive harvest in the coastal mountains",
+            "Managing the health of pistachio orchards near Aleppo",
+            "Planning the wheat and barley sowing season in the Hauran plain",
+            "Tending to traditional apricot groves in the Ghouta region",
+            "Checking on the cumin and spice fields before harvest",
+            "Maintaining traditional irrigation methods",
+            "Discussing the challenges of sourcing quality seeds and fertilizers",
+            "Managing livestock (sheep and goats) in the semi-arid regions",
+            "Pruning and caring for fig trees",
+            "Coordinating with neighbors on water usage"
+        ]
+    },
+    {
+        "id": 3,
+        "participants": "Me - Wholesale Buyer",
+        "cultural_context": "Syrian",
+        "domain": "At the Wholesale Market",
+        "topics": [
+            "Sourcing high-quality olive oil for traditional soap production",
+            "Negotiating the price for new season's pistachios",
+            "Discussing the logistics of transporting cotton from the eastern provinces",
+            "Arranging the purchase of spices like coriander and anise",
+            "Inspecting the quality of cherries from the Zabadani region",
+            "Buying wheat and barley for local bakeries and mills",
+            "Sourcing laurel oil for export",
+            "Discussing the transport challenges within the country",
+            "Negotiating terms for dried figs and apricots",
+            "Finding the best quality lentils and chickpeas"
+        ]
+    },
+    {
+        "id": 4,
+        "participants": "Me - Farmer",
+        "cultural_context": "Palestinian",
+        "domain": "On the Farm (Daily Operations)",
+        "topics": [
+            "Coordinating the olive harvest with family members in the West Bank",
+            "Discussing water allocation for vegetable gardens in Jericho",
+            "Maintaining ancient stone terraces (senasel) for farming",
+            "Caring for citrus groves and checking for pests",
+            "Harvesting grapes for fresh consumption or molasses (dibs)",
+            "Tending to beehives for honey production",
+            "Growing herbs like sage (maramiyeh) and thyme (za'atar)",
+            "Managing small flocks of sheep for milk and meat",
+            "Dealing with issues of land access and movement",
+            "Saving heirloom seeds for the next planting season"
+        ]
+    },
+    {
+        "id": 5,
+        "participants": "Me - Wholesale Buyer",
+        "cultural_context": "Palestinian",
+        "domain": "At the Wholesale Market",
+        "topics": [
+            "Negotiating the price for high-quality Nabulsi olive oil",
+            "Sourcing Medjool dates from the Jordan Valley",
+            "Arranging transport logistics and navigating checkpoints",
+            "Buying fresh herbs and vegetables for a restaurant in Jerusalem",
+            "Sourcing freekeh (roasted green wheat) after the harvest",
+            "Purchasing almonds and other nuts from northern villages",
+            "Discussing the quality of fresh cheese and yogurt from small producers",
+            "Coordinating with farmers to ensure a steady supply of produce",
+            "Finding the best quality sumac for spice markets",
+            "Negotiating with Israeli merchants for cross-border trade"
+        ]
+    },
+    {
+        "id": 6,
+        "participants": "Me - Farmer",
+        "cultural_context": "Jordanian",
+        "domain": "On the Farm (Daily Operations)",
+        "topics": [
+            "Managing drip irrigation for tomato and cucumber crops in the Jordan Valley",
+            "Moving flocks of sheep and goats to new grazing areas",
+            "Harvesting olives in the hills near Ajloun",
+            "Discussing strategies to cope with increasing water salinity",
+            "Cultivating bell peppers and eggplants in greenhouses",
+            "Tending to pomegranate and citrus trees",
+            "Managing a small-scale poultry operation",
+            "Preparing land for the winter wheat and barley planting",
+            "Dealing with desert pests and extreme temperatures",
+            "Experimenting with water-saving agricultural technologies"
+        ]
+    },
+    {
+        "id": 7,
+        "participants": "Me - Wholesale Buyer",
+        "cultural_context": "Jordanian",
+        "domain": "At the Wholesale Market",
+        "topics": [
+            "Negotiating prices for vegetables to be exported to the Gulf",
+            "Bidding on livestock at the Amman central market",
+            "Sourcing local olive oil and preserved lemons",
+            "Arranging refrigerated transport for fresh produce to hotels",
+            "Buying high-quality herbs like mint and parsley in bulk",
+            "Discussing the import of fruits not grown locally",
+            "Checking the quality of locally grown potatoes and onions",
+            "Sourcing dairy products like Jameed for traditional dishes",
+            "Forecasting agricultural commodity prices",
+            "Coordinating with customs for export documentation"
+        ]
+    },
+    {
+        "id": 8,
+        "participants": "Me - Farmer",
+        "cultural_context": "Emirati",
+        "domain": "On the Farm (Daily Operations)",
+        "topics": [
+            "Monitoring nutrient levels in the hydroponics system for leafy greens",
+            "Managing the automated irrigation for date palm plantations",
+            "Discussing cooling system efficiency in the greenhouses",
+            "Overseeing the care and breeding of racing camels",
+            "Calibrating sensors for temperature and humidity control",
+            "Managing an aquaponics system for fish and vegetables",
+            "Planning the harvest of organic tomatoes and cucumbers",
+            "Discussing desalinization plant maintenance and water quality",
+            "Implementing integrated pest management in a closed environment",
+            "Training staff on new agricultural technologies"
+        ]
+    },
+    {
+        "id": 9,
+        "participants": "Me - Wholesale Buyer",
+        "cultural_context": "Emirati",
+        "domain": "At the Wholesale Market",
+        "topics": [
+            "Negotiating contracts for high-quality local dates at Al Awir Market",
+            "Sourcing imported exotic fruits for the hospitality sector",
+            "Discussing logistics for air-freighting fresh produce from abroad",
+            "Evaluating produce from local high-tech farms",
+            "Arranging the import of high-quality meat from Australia and India",
+            "Sourcing specialty items like truffles and saffron for high-end restaurants",
+            "Coordinating with shipping lines for sea freight of bulk commodities",
+            "Discussing packaging and branding requirements for supermarkets",
+            "Checking compliance with food safety and import standards",
+            "Negotiating with international suppliers for exclusive distribution rights"
+        ]
+    },
+    {
+        "id": 10,
+        "participants": "Me - Farmer",
+        "cultural_context": "Saudi Arabian",
+        "domain": "On the Farm (Daily Operations)",
+        "topics": [
+            "Checking the center-pivot irrigation systems for the wheat fields",
+            "Managing a large-scale date palm plantation",
+            "Overseeing climate controls in a vast greenhouse complex",
+            "Coordinating the feeding and care of a large dairy herd",
+            "Planning potato and onion planting seasons",
+            "Managing water resources from deep aquifers",
+            "Operating and maintaining heavy agricultural machinery",
+            "Implementing pest control for large monoculture fields",
+            "Overseeing a large-scale poultry farm's operations",
+            "Discussing government subsidies and agricultural policy"
+        ]
+    },
+    {
+        "id": 11,
+        "participants": "Me - Wholesale Buyer",
+        "cultural_context": "Saudi Arabian",
+        "domain": "At the Wholesale Market",
+        "topics": [
+            "Negotiating future contracts for wheat supply with a large farm",
+            "Selecting premium varieties of dates (like Ajwa) for luxury packaging",
+            "Arranging the import and quarantine of livestock (sheep and camels)",
+            "Sourcing vegetables from local greenhouse producers in Riyadh and Jeddah",
+            "Coordinating the distribution of dairy products nationwide",
+            "Negotiating with international food companies for import rights",
+            "Managing cold chain logistics for imported and local produce",
+            "Bidding on produce at central wholesale markets",
+            "Sourcing high-quality barley for animal feed",
+            "Discussing market trends for organic and specialty foods"
+        ]
+    },
+    {
+        "id": 12,
+        "participants": "Me - Farmer",
+        "cultural_context": "Algerian",
+        "domain": "On the Farm (Daily Operations)",
+        "topics": [
+            "Tending to Deglet Nour date palms in the Biskra oasis",
+            "Managing coastal citrus groves and planning the harvest",
+            "Overseeing the pressing of olives for oil in the Kabylie region",
+            "Cultivating durum wheat in the high plains of Sétif",
+            "Herding sheep in the Atlas Mountains",
+            "Harvesting cork from oak forests",
+            "Growing grapes for table use",
+            "Maintaining irrigation channels from local wadis",
+            "Discussing the impact of drought on cereal production",
+            "Managing the health of fig and pomegranate trees"
+        ]
+    },
+    {
+        "id": 13,
+        "participants": "Me - Wholesale Buyer",
+        "cultural_context": "Algerian",
+        "domain": "At the Wholesale Market",
+        "topics": [
+            "Negotiating the price for a large shipment of dates for export to France",
+            "Sourcing olive oil from different regions to create a blend",
+            "Buying durum wheat for the national pasta and couscous industry",
+            "Arranging transport for citrus fruits from the coast to the interior",
+            "Purchasing potatoes and other vegetables from the Mitidja plain",
+            "Trading in artisanal products like fig jam and honey",
+            "Sourcing livestock from the highlands for urban markets",
+            "Discussing the import of powdered milk and other staples",
+            "Negotiating with fishermen for the daily catch in coastal cities",
+            "Arranging logistics for exporting artichokes and other vegetables"
+        ]
+    },
+    {
+        "id": 14,
+        "participants": "Me - Farmer",
+        "cultural_context": "Mauritanian",
+        "domain": "On the Farm (Daily Operations)",
+        "topics": [
+            "Managing a herd of Zebu cattle across Sahelian pastures",
+            "Overseeing a fishing vessel's daily catch off the coast of Nouadhibou",
+            "Harvesting dates from an oasis palm grove (a guetna)",
+            "Cultivating millet and sorghum after the short rainy season",
+            "Finding and managing water points for livestock",
+            "Herding camels for milk and transport",
+            "Protecting crops from locusts and other pests",
+            "Discussing grazing rights with other pastoralist groups",
+            "Maintaining small-scale vegetable gardens near riverbeds",
+            "Tapping acacia trees for gum arabic"
+        ]
+    },
+    {
+        "id": 15,
+        "participants": "Me - Wholesale Buyer",
+        "cultural_context": "Mauritanian",
+        "domain": "At the Wholesale Market",
+        "topics": [
+            "Bidding on lots of fresh and dried fish at the Nouakchott fish market",
+            "Negotiating the price of livestock for export to Senegal",
+            "Sourcing high-quality gum arabic for international buyers",
+            "Arranging the distribution of imported rice, tea, and sugar",
+            "Trading in camels at a desert market",
+            "Buying locally grown millet and dates",
+            "Sourcing hides and skins from livestock traders",
+            "Discussing transport logistics along the Route de l'Espoir",
+            "Negotiating with fishing companies for export contracts",
+            "Importing fruits and vegetables from Morocco and Europe"
+        ]
+    },
+    {
+        "id": 16,
+        "participants": "Me - Farmer",
+        "cultural_context": "Sudanese",
+        "domain": "On the Farm (Daily Operations)",
+        "topics": [
+            "Tapping acacia trees for gum arabic in the Kordofan region",
+            "Managing the harvest of sesame and groundnut (peanut) fields",
+            "Cultivating sorghum (dura) and preparing for seasonal rains",
+            "Herding cattle and camels in Darfur and Kordofan",
+            "Managing irrigation for sugarcane fields along the Blue Nile",
+            "Growing hibiscus (karkade) for drying and sale",
+            "Protecting livestock from disease",
+            "Planting watermelon and other melons",
+            "Dealing with the challenges of desertification",
+            "Managing small plots of fava beans and chickpeas"
+        ]
+    },
+    {
+        "id": 17,
+        "participants": "Me - Wholesale Buyer",
+        "cultural_context": "Sudanese",
+        "domain": "At the Wholesale Market",
+        "topics": [
+            "Grading and negotiating prices for different qualities of gum arabic",
+            "Arranging the export of sesame seeds and peanuts through Port Sudan",
+            "Buying livestock for the domestic market in Omdurman's souk",
+            "Trading in dried hibiscus flowers (karkade) for local and export markets",
+            "Sourcing sorghum and millet for flour mills",
+            "Negotiating prices for raw sugar from local refineries",
+            "Arranging transport of goods via truck convoys",
+            "Buying and selling camels for meat and export",
+            "Sourcing onions and other vegetables from riverside farms",
+            "Discussing the impact of currency fluctuation on trade"
+        ]
+    },
+    {
+        "id": 18,
+        "participants": "Me - Farmer",
+        "cultural_context": "Yemeni",
+        "domain": "On the Farm (Daily Operations)",
+        "topics": [
+            "Cultivating high-altitude Arabica coffee on mountain terraces",
+            "Harvesting and bundling qat leaves for the daily market",
+            "Maintaining ancient terraced farming structures to prevent erosion",
+            "Practicing beekeeping for prized Sidr honey",
+            "Managing scarce water resources through cisterns and spate irrigation",
+            "Growing sorghum and wheat on highland plains",
+            "Tending to apricot and peach trees",
+            "Raising goats and sheep on the rugged landscape",
+            "Discussing security concerns affecting farm work",
+            "Intercropping coffee with other plants"
+        ]
+    },
+    {
+        "id": 19,
+        "participants": "Me - Wholesale Buyer",
+        "cultural_context": "Yemeni",
+        "domain": "At the Wholesale Market",
+        "topics": [
+            "Evaluating and buying specialty coffee beans (e.g., Mattari, Ismaili) from different highland regions",
+            "Negotiating the price of fresh qat bundles in the Sana'a market",
+            "Sourcing rare and medicinal honeys from Hadramaut",
+            "Discussing the immense challenges and risks of transporting goods securely",
+            "Buying and selling grains like sorghum and wheat",
+            "Trading in spices like ginger and turmeric, often imported",
+            "Sourcing high-quality almonds and raisins",
+            "Negotiating fuel costs for transport",
+            "Finding buyers for potatoes grown in the Dhamar region",
+            "Assessing the quality of traditional ghee (samn) from rural producers"
+        ]
+    }
+]

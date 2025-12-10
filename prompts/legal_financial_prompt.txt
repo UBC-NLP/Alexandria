@@ -1,0 +1,76 @@
+# Legal & Financial Dialogue Scenario Generator
+
+## Context Configuration
+- **Country**: {country}
+- **Culture**: {country_2}
+- **Legal System**: {country_2} law (based on Islamic law, French civil law, and customary law)
+- **Financial System**: {country_2} banking and finance sector
+- **Language Context**: [Dialectal Arabic]
+- **Target Output**: 500+ conversations with diverse topics
+
+## Base Framework
+```json
+{{
+    "genre": "Legal & Financial",
+    "type": "dialogue",
+    "domains": [
+        "Lawyer-Client Consultation",
+        "Applying for a Loan/Mortgage",
+        "Discussing Investments",
+        "Reporting a Crime",
+        "Real Estate Transactions",
+        "Disputing a Bill"
+    ],
+    "personas": [
+        "Lawyer", "Client", "Police Officer", "Bank Teller",
+        "Loan Officer", "Financial Advisor", "Real Estate Agent"
+    ]
+}}
+```
+
+## Task Requirements
+
+Generate dialogue combinations using the following structure:
+
+### Output Format
+```json
+{{
+    "id": [unique_identifier],
+    "participants": "[Me] - [persona]",
+    "cultural_context": "{country_2}",
+    "domain": "[applicable_domain]",
+    "legal_financial_context": "[specific_{country_2}_institution_or_law]",
+    "topics": [
+        "topic_1_{country_2}_legal_financial_context",
+        "topic_2_{country_2}_legal_financial_context",
+        // ... 8 more topics
+    ]
+}}
+```
+
+### Instructions
+1. **Create 55 combinations** of domains and personas relevant to {country_2} legal and financial contexts
+2. **Generate 10 culturally-specific topics** for each combination
+3. **Ensure topics reflect**:
+   - {country_2} legal procedures and regulations
+   - Islamic banking principles (where applicable)
+   - Local financial institutions and practices
+   - Real estate laws and customs
+   - Consumer protection regulations
+   - Traditional business practices adapted to modern law
+4. **Consider {country_2}-specific elements**:
+   - Bank Al-Maghrib (Central Bank) regulations
+   - Property inheritance laws
+   - Commercial court procedures
+   - Notary system for contracts
+   - Regional development banks
+   - Tourism-related legal issues
+5. **Maintain variety** across all 500+ conversations
+6. **Structure output** as a complete JSON array
+
+### Example Output Structure
+```json
+{json_output_example}
+```
+
+Please generate all possible meaningful combinations with their respective {country_2}-contextualized topics.

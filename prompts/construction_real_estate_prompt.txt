@@ -1,0 +1,68 @@
+# Construction & Real Estate Dialogue Generator
+
+## Context Configuration
+- **Country**: {country}
+- **Culture**: {country_2}
+- **Industry**: Construction & Real Estate
+- **Language Context**: [Dialectal Arabic]
+- **Target Output**: 500+ conversations with diverse topics
+
+## Base Framework
+```json
+{{
+    "genre": "Construction & Real Estate",
+    "type": "dialogue",
+    "domains": [
+        "Construction Site Coordination",
+        "Real Estate Sales/Leasing",
+        "Architectural & Engineering Planning",
+        "Skilled Trades Services (Plumbing/Electrical)",
+        "Property Management",
+        "Urban Planning Meetings"
+    ],
+    "personas": [
+        "Construction Manager", "Laborer", "Real Estate Agent",
+        "Prospective Buyer/Renter", "Architect", "Civil Engineer",
+        "Skilled Tradesperson", "Property Manager"
+    ]
+}}
+```
+
+## Task Requirements
+
+Generate dialogue combinations using the following structure:
+
+### Output Format
+```json
+{{
+    "id": [unique_identifier],
+    "participants": "[Me] - [persona]",
+    "cultural_context": "{country_2}",
+    "domain": "[applicable_domain]",
+    "topics": [
+        "topic_1_{country_2}_context",
+        "topic_2_{country_2}_context",
+        // ... 8 more topics
+    ]
+}}
+```
+
+### Instructions
+1. **Create 55 combinations** of domains and personas relevant to {country_2} construction and real estate contexts
+2. **Generate 10 industry-specific topics** for each combination
+3. **Ensure topics reflect**:
+   - {country_2} construction regulations and standards
+   - Local real estate market dynamics
+   - Traditional and modern building practices
+   - Regional construction materials and techniques
+   - {country_2} urban development patterns
+   - Cultural considerations in housing and construction
+4. **Maintain variety** across all 500+ conversations
+5. **Structure output** as a complete JSON array
+
+### Example Output Structure
+```json
+{json_output_example}
+```
+
+Please generate all possible meaningful combinations with their respective {country_2} construction and real estate contextualized topics.

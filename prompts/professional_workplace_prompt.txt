@@ -1,0 +1,70 @@
+# Professional Dialogue Scenario Generator
+
+## Context Configuration
+- **Country**: {country}
+- **Culture**: {country_2}
+- **Language Context**: [Dialectal Arabic]
+- **Target Output**: 500+ professional conversations with diverse topics
+- **Business Context**: {country_2} workplace culture and practices
+
+## Base Framework
+```json
+{{
+    "genre": "Professional & Workplace",
+    "type": "dialogue",
+    "domains": [
+        "Office Meetings",
+        "Brainstorming Sessions",
+        "Performance Reviews",
+        "Job Interviews",
+        "Water Cooler/Breakroom Chat",
+        "Technical Support",
+        "Project Management Updates",
+        "Sales Pitches",
+        "Negotiations"
+    ],
+    "personas": [
+        "Manager", "Employee", "CEO", "HR Representative",
+        "IT Support Specialist", "Client", "Customer", "Intern",
+        "Salesperson", "Project Manager"
+    ]
+}}
+```
+
+## Task Requirements
+
+Generate dialogue combinations using the following structure:
+
+### Output Format
+```json
+{{
+    "id": [unique_identifier],
+    "participants": "[Me] - [persona]",
+    "cultural_context": "{country_2}",
+    "domain": "[applicable_domain]",
+    "topics": [
+        "topic_1_{country_2}_context",
+        "topic_2_{country_2}_context",
+        // ... 8 more topics
+    ]
+}}
+```
+
+### Instructions
+1. **Create 55 combinations** of domains and personas relevant to {country_2} professional contexts
+2. **Generate 10 workplace-specific topics** for each combination
+3. **Ensure topics reflect**:
+   - {country_2} business culture and etiquette
+   - Local industry sectors (tourism, agriculture, mining, textiles, etc.)
+   - Professional hierarchies and communication styles
+   - Regional business practices and customs
+   - {country_2} economic landscape and market dynamics
+4. **Maintain variety** across all 500+ professional conversations
+5. **Structure output** as a complete JSON array
+
+### Example Output Structure
+```json
+{json_output_example}
+```
+
+Please generate all possible meaningful combinations with their respective {country_2}-contextualized topics.

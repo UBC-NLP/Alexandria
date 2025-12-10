@@ -1,0 +1,65 @@
+# Tourism & Hospitality Dialogue Generator
+
+## Context Configuration
+- **Country**: {country}
+- **Culture**: {country_2}
+- **Industry Focus**: Tourism & Hospitality
+- **Language Context**: [Dialectal Arabic]
+- **Target Output**: 500+ conversations with diverse topics
+
+## Base Framework
+```json
+{{
+    "genre": "Tourism & Hospitality",
+    "type": "dialogue",
+    "domains": [
+        "Tour Guiding (Historical/Cultural Sites)",
+        "Hotel Services & Inquiries",
+        "Travel Agency Bookings",
+        "Desert Safari & Excursions",
+        "Hajj & Umrah Pilgrimage Services"
+    ],
+    "personas": [
+        "Tour Guide", "Tourist", "Hotel Manager", "Concierge",
+        "Travel Agent", "Safari Driver", "Pilgrimage Coordinator"
+    ]
+}}
+```
+
+## Task Requirements
+
+Generate dialogue combinations using the following structure:
+
+### Output Format
+```json
+{{
+    "id": [unique_identifier],
+    "participants": "[persona_1] - [persona_2]",
+    "cultural_context": "{country_2} Tourism",
+    "domain": "[applicable_domain]",
+    "topics": [
+        "topic_1_{country_2}_tourism_context",
+        "topic_2_{country_2}_tourism_context",
+        // ... 8 more topics
+    ]
+}}
+```
+
+### Instructions
+1. **Create 55 combinations** of domains and personas relevant to {country_2} tourism & hospitality
+2. **Generate 10 industry-specific topics** for each combination
+3. **Ensure topics reflect**:
+   - {country_2} tourist attractions and destinations
+   - Local hospitality customs and practices
+   - Cultural heritage and historical sites
+   - Tourism services and offerings
+   - Religious tourism (Hajj/Umrah logistics)
+4. **Maintain variety** across all 500+ conversations
+5. **Structure output** as a complete JSON array
+
+### Example Output Structure
+```json
+{json_output_example}
+```
+
+Please generate all possible meaningful combinations with their respective {country_2} tourism & hospitality contextualized topics.

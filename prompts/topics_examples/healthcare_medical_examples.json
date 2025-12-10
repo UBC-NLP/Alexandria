@@ -1,0 +1,398 @@
+[
+    {
+    "id": 0,
+    "participants": "Me (Patient) - Doctor",
+    "cultural_context": "Moroccan",
+    "domain": "Doctor-Patient Consultation",
+    "topics": [
+        "Managing chronic conditions like diabetes and hypertension, which are highly prevalent",
+        "Discussing symptoms and prevention of common infectious diseases like tuberculosis or seasonal flu",
+        "Navigating the 'Assurance Maladie Obligatoire' (AMO) system, including CNSS (private) and CNOPS (public)",
+        "The role of family members in the consultation and in making important medical decisions",
+        "Addressing dietary habits, such as high sugar and fat intake, and their health impacts",
+        "Inquiring about the differences in care and cost between public hospitals and private clinics",
+        "Approaching conversations about mental health (anxiety, depression) in a culturally sensitive way",
+        "Understanding the referral process to see a specialist, which differs between public and private sectors",
+        "Discussing the importance and schedule of vaccinations for children and adults",
+        "Asking for a clear explanation of the treatment plan, given the traditional respect for the doctor's authority"
+    ]
+},
+{
+    "id": 1,
+    "participants": "Me (Patient) - Pharmacist",
+    "cultural_context": "Moroccan",
+    "domain": "At the Pharmacy",
+    "topics": [
+        "Asking for advice on over-the-counter remedies for common issues like colds, headaches, or digestive problems",
+        "Inquiring about the availability and price of generic vs. branded medications",
+        "Seeking clarification on a doctor's prescription, including dosage and frequency",
+        "Requesting traditional Moroccan herbal remedies ('zaatar' for colds, 'louiza' for sleep) and their use alongside conventional medicine",
+        "How to properly manage medications for chronic illnesses (e.g., diabetes, hypertension) during Ramadan fasting",
+        "Asking for recommendations on skincare products suitable for sunny and dry climates, such as sunblock or moisturizers",
+        "Inquiring about the availability of specific imported medications and potential alternatives",
+        "Understanding potential side effects and interactions of prescribed drugs",
+        "Purchasing nutritional supplements, particularly vitamins and minerals",
+        "Asking for measurement of blood pressure or blood sugar levels, a common service offered in pharmacies"
+    ]
+},
+    {
+        "id": 0,
+        "participants": "Me (Patient) - Doctor",
+        "cultural_context": "Egyptian",
+        "domain": "Doctor-Patient Consultation",
+        "topics": [
+            "Managing chronic diseases like diabetes and hypertension",
+            "Discussing symptoms related to schistosomiasis or other waterborne illnesses",
+            "Navigating the Universal Health Insurance system",
+            "Seeking a second opinion and the cultural view on questioning a doctor's authority",
+            "Addressing the high prevalence of Hepatitis C and treatment options",
+            "Family involvement in medical decision-making",
+            "Discussing diet and lifestyle changes for obesity",
+            "Inquiring about the availability of specific medications in public vs. private hospitals",
+            "Cultural sensitivities when discussing mental health concerns",
+            "Understanding the referral process to specialists"
+        ]
+    },
+    {
+        "id": 1,
+        "participants": "Me (Patient) - Pharmacist",
+        "cultural_context": "Egyptian",
+        "domain": "At the Pharmacy",
+        "topics": [
+            "Asking for advice on over-the-counter medications for common ailments",
+            "Inquiring about the price differences between branded and generic drugs",
+            "Seeking clarification on prescription instructions",
+            "Discussing the availability of imported medications",
+            "Asking about nutritional supplements and vitamins",
+            "Understanding potential side effects of medications",
+            "Requesting information on traditional or herbal remedies",
+            "Inquiring about home delivery services for medication",
+            "Discussing management of medication during Ramadan fasting",
+            "Seeking advice on skincare products for the hot climate"
+        ]
+    },
+    {
+        "id": 2,
+        "participants": "Me (Patient) - Doctor",
+        "cultural_context": "Syrian",
+        "domain": "Doctor-Patient Consultation",
+        "topics": [
+            "Managing chronic illnesses with limited access to specialized care",
+            "Discussing symptoms of infectious diseases like cholera or leishmaniasis",
+            "Addressing the psychological impact of conflict and displacement",
+            "Inquiring about the availability of essential medicines amidst sanctions",
+            "Navigating a fragmented healthcare system with a mix of public and private providers",
+            "Dealing with the stigma associated with mental health issues",
+            "Seeking care for injuries related to conflict",
+            "Discussing challenges in obtaining consistent follow-up care",
+            "The role of family members in providing care and support",
+            "Understanding treatment options when resources are scarce"
+        ]
+    },
+    {
+        "id": 3,
+        "participants": "Me (Patient) - Pharmacist",
+        "cultural_context": "Syrian",
+        "domain": "At the Pharmacy",
+        "topics": [
+            "Asking for alternatives to unavailable prescription medications",
+            "Inquiring about the cost and availability of over-the-counter pain relievers",
+            "Seeking advice on managing common illnesses at home",
+            "Discussing self-medication practices and potential risks",
+            "Asking about the authenticity and source of available medications",
+            "Inquiring about nutritional supplements to address dietary gaps",
+            "Understanding how to manage medications for children in a crisis setting",
+            "Seeking information on wound care and first aid supplies",
+            "Discussing the use of traditional remedies when modern medicine is inaccessible",
+            "Asking about support from humanitarian organizations for medication access"
+        ]
+    },
+    {
+        "id": 4,
+        "participants": "Me (Patient) - Doctor",
+        "cultural_context": "Palestinian",
+        "domain": "Doctor-Patient Consultation",
+        "topics": [
+            "Managing chronic diseases with inconsistent access to healthcare",
+            "Discussing the psychological toll of living in a conflict zone",
+            "Navigating the process for obtaining permits for medical treatment outside of Palestine",
+            "Addressing the health impacts of restricted movement and access to resources",
+            "Inquiring about the availability of specialized medical services",
+            "The role of family and community in health and well-being",
+            "Discussing the management of non-communicable diseases under challenging circumstances",
+            "Seeking care for injuries and disabilities resulting from conflict",
+            "Understanding the limitations of the local healthcare infrastructure",
+            "Addressing the stigma surrounding mental health support"
+        ]
+    },
+    {
+        "id": 5,
+        "participants": "Me (Patient) - Pharmacist",
+        "cultural_context": "Palestinian",
+        "domain": "At the Pharmacy",
+        "topics": [
+            "Inquiring about the availability of essential medications and medical supplies",
+            "Asking for advice on managing minor health issues with over-the-counter products",
+            "Discussing the challenges of adhering to a medication regimen with frequent shortages",
+            "Seeking information on medications provided by humanitarian aid organizations",
+            "Asking about the cost and affordability of medicines in the private sector",
+            "Understanding how to properly store medications with unreliable electricity",
+            "Inquiring about alternative treatments or traditional remedies",
+            "Discussing the importance of medication for children's health in a difficult environment",
+            "Asking about the process for refilling prescriptions for chronic conditions",
+            "Seeking guidance on identifying counterfeit or expired medications"
+        ]
+    },
+    {
+        "id": 6,
+        "participants": "Me (Patient) - Doctor",
+        "cultural_context": "Jordanian",
+        "domain": "Doctor-Patient Consultation",
+        "topics": [
+            "Discussing the management of prevalent non-communicable diseases",
+            "Navigating the differences between public and private healthcare sectors",
+            "The role of family members in attending appointments and making decisions",
+            "Addressing cultural views on mental health and seeking professional help",
+            "Inquiring about the use of traditional and herbal remedies alongside modern medicine",
+            "Understanding health insurance coverage for various treatments",
+            "Discussing lifestyle factors such as diet and smoking",
+            "Seeking referrals to specialists for specific health concerns",
+            "Patient-doctor communication styles and expectations of receiving information",
+            "Managing health conditions during religious observances like Ramadan"
+        ]
+    },
+    {
+        "id": 7,
+        "participants": "Me (Patient) - Pharmacist",
+        "cultural_context": "Jordanian",
+        "domain": "At the Pharmacy",
+        "topics": [
+            "Seeking advice on over-the-counter medications for common illnesses",
+            "Asking about the differences in price and quality between local and imported drugs",
+            "Inquiring about potential interactions between prescription drugs and herbal supplements",
+            "Discussing self-medication practices and when to see a doctor",
+            "Clarifying dosage instructions and potential side effects",
+            "Asking for recommendations for vitamins and nutritional supplements",
+            "Understanding the regulations around dispensing certain medications",
+            "Inquiring about the availability of specific cosmetic and skincare products",
+            "Discussing the management of children's minor illnesses",
+            "Asking for guidance on using medical devices like blood sugar monitors"
+        ]
+    },
+    {
+        "id": 8,
+        "participants": "Me (Patient) - Doctor",
+        "cultural_context": "Emirati",
+        "domain": "Doctor-Patient Consultation",
+        "topics": [
+            "Managing lifestyle-related conditions such as diabetes and obesity",
+            "Discussing options for elective and cosmetic procedures",
+            "Navigating the mandatory health insurance system for expatriates",
+            "Seeking specialized care from internationally trained physicians",
+            "The role of family in supporting health and wellness",
+            "Addressing vitamin D deficiency and other common health issues in the region",
+            "Discussing pre-travel health advice and vaccinations",
+            "Inquiring about the latest medical technologies and treatment options",
+            "Cultural norms around discussing sensitive health topics",
+            "Understanding the healthcare services available for different visa statuses"
+        ]
+    },
+    {
+        "id": 9,
+        "participants": "Me (Patient) - Pharmacist",
+        "cultural_context": "Emirati",
+        "domain": "At the Pharmacy",
+        "topics": [
+            "Asking for high-end, brand-name medications and supplements",
+            "Inquiring about the availability of medications from specific countries",
+            "Seeking advice on skincare and sun protection in a desert climate",
+            "Discussing the use of smart health devices and apps to manage health",
+            "Asking about the regulations for bringing personal medications into the country",
+            "Inquiring about smoking cessation aids and support",
+            "Seeking recommendations for travel-related health products",
+            "Understanding the pharmacist's role in the highly developed private healthcare sector",
+            "Discussing the importance of hydration and electrolyte balance",
+            "Asking about the availability of organic and natural health products"
+        ]
+    },
+    {
+        "id": 10,
+        "participants": "Me (Patient) - Doctor",
+        "cultural_context": "Saudi Arabian",
+        "domain": "Doctor-Patient Consultation",
+        "topics": [
+            "Managing chronic diseases like cardiovascular disease and diabetes",
+            "Discussing health requirements and preparations for Hajj or Umrah",
+            "Navigating the healthcare system as a national, expatriate, or pilgrim",
+            "The influence of family and tribal customs on healthcare decisions",
+            "Addressing the cultural stigma associated with mental health conditions",
+            "Inquiring about genetic and hereditary diseases prevalent in the region",
+            "Discussing lifestyle modifications, including diet and physical activity",
+            "Understanding the segregation of sexes in healthcare facilities",
+           "Seeking advice on managing health in extreme heat",
+            "The role of religious beliefs in healing and recovery"
+        ]
+    },
+    {
+        "id": 11,
+        "participants": "Me (Patient) - Pharmacist",
+        "cultural_context": "Saudi Arabian",
+        "domain": "At the Pharmacy",
+        "topics": [
+            "Requesting specific medications based on brand preference",
+            "Seeking advice on over-the-counter remedies for common ailments like colds and headaches",
+            "Inquiring about health supplements and vitamins, especially for energy and immunity",
+            "Asking about the proper use and storage of medications, particularly during travel",
+            "Discussing the availability of medications for chronic conditions",
+            "Understanding the pharmacist's advice on medication adherence during Ramadan",
+            "Inquiring about products for hair loss and skincare",
+            "Asking about the policy on prescription refills and duration",
+            "Seeking guidance on the use of traditional Prophetic medicine alongside conventional treatments",
+            "Discussing the availability of female pharmacists for female patients"
+        ]
+    },
+    {
+        "id": 12,
+        "participants": "Me (Patient) - Doctor",
+        "cultural_context": "Algerian",
+        "domain": "Doctor-Patient Consultation",
+        "topics": [
+            "Communicating symptoms effectively, potentially navigating between Arabic, French, and Berber languages",
+            "Discussing the management of hypertension and other cardiovascular diseases",
+            "Navigating the public healthcare system and understanding the referral process",
+            "The role of family in providing care, especially for the elderly",
+            "Addressing the social and cultural aspects of mental health",
+            "Inquiring about the availability and cost of treatments in the private sector",
+            "Discussing infectious diseases prevalent in the region",
+        "Seeking medical advice for work-related health issues",
+            "Understanding the doctor's perspective on the use of traditional remedies",
+            "Discussing health concerns related to a rapidly urbanizing environment"
+        ]
+    },
+    {
+        "id": 13,
+        "participants": "Me (Patient) - Pharmacist",
+        "cultural_context": "Algerian",
+        "domain": "At the Pharmacy",
+        "topics": [
+            "Asking for advice in a mix of French and Algerian Arabic (Darja)",
+            "Inquiring about the price and availability of both locally produced and imported medications",
+            "Seeking recommendations for common digestive issues",
+            "Discussing the use of herbal medicine and natural products",
+            "Asking for clarification on prescriptions that may be written in French",
+            "Inquiring about over-the-counter pain management options",
+            "Understanding the pharmacist's role in providing basic health advice",
+            "Asking about skincare products suitable for the local climate",
+            "Discussing the availability of nutritional supplements for children",
+            "Seeking information on smoking cessation products"
+        ]
+    },
+    {
+        "id": 14,
+        "participants": "Me (Patient) - Doctor",
+        "cultural_context": "Mauritanian",
+        "domain": "Doctor-Patient Consultation",
+        "topics": [
+            "Discussing symptoms of infectious diseases such as malaria and diarrheal diseases",
+            "Addressing malnutrition and related health complications",
+            "Navigating a healthcare system with limited resources, especially in rural areas",
+            "The importance of family and community support in illness and recovery",
+            "Cultural beliefs about the causes of illness, including supernatural explanations",
+            "Seeking maternal and child health services",
+            "Discussing the challenges of managing chronic conditions in a low-resource setting",
+            "Understanding the need for medical evacuation for serious conditions",
+            "Communicating health concerns through a translator if necessary",
+            "Inquiring about preventative measures and vaccinations"
+        ]
+    },
+    {
+        "id": 15,
+        "participants": "Me (Patient) - Pharmacist",
+        "cultural_context": "Mauritanian",
+        "domain": "At the Pharmacy",
+        "topics": [
+            "Asking for basic over-the-counter medications for fever, pain, and diarrhea",
+            "Inquiring about the availability and cost of essential medicines",
+            "Seeking advice on water purification and oral rehydration salts",
+            "Discussing traditional remedies and their use",
+            "Understanding the dosage and instructions for medications, often with low health literacy",
+            "Asking about the availability of nutritional supplements, particularly for children",
+            "Inquiring about antimalarial medication",
+            "Seeking basic first aid supplies",
+            "Understanding the limited range of medications available in the country",
+            "Asking for advice on insect repellents and other preventive health products"
+        ]
+    },
+    {
+        "id": 16,
+        "participants": "Me (Patient) - Doctor",
+        "cultural_context": "Sudanese",
+        "domain": "Doctor-Patient Consultation",
+        "topics": [
+            "Managing communicable diseases like malaria, tuberculosis, and diarrheal diseases",
+            "Addressing the health consequences of conflict and displacement",
+            "Navigating a healthcare system severely impacted by political and economic instability",
+            "The role of family and community in caring for the sick",
+            "Cultural attitudes towards mental health and seeking psychological support",
+            "Discussing the challenges of accessing consistent medical care and follow-up",
+            "Seeking treatment for malnutrition and associated illnesses",
+            "Understanding the risks of and treatment for neglected tropical diseases",
+            "The importance of traditional healers and their role in the community",
+            "Communicating health issues across diverse ethnic and linguistic groups"
+        ]
+    },
+    {
+        "id": 17,
+        "participants": "Me (Patient) - Pharmacist",
+        "cultural_context": "Sudanese",
+        "domain": "At the Pharmacy",
+        "topics": [
+            "Inquiring about the availability and price of essential medicines",
+            "Asking for advice on managing common symptoms with limited resources",
+            "Discussing the use of herbal and traditional remedies",
+            "Seeking information on how to identify counterfeit or poor-quality medications",
+            "Asking for oral rehydration therapy and nutritional supplements",
+            "Understanding how to manage chronic medications amidst supply chain disruptions",
+            "Inquiring about medications for common skin conditions",
+            "Seeking guidance on water safety and hygiene",
+            "Asking about the availability of basic painkillers and fever reducers",
+            "Discussing the role of the pharmacist in providing health education"
+        ]
+    },
+    {
+        "id": 18,
+        "participants": "Me (Patient) - Doctor",
+        "cultural_context": "Yemeni",
+        "domain": "Doctor-Patient Consultation",
+        "topics": [
+            "Dealing with the health impacts of ongoing conflict and a collapsed healthcare system",
+            "Managing outbreaks of infectious diseases like cholera and diphtheria",
+            "Addressing severe malnutrition, especially in children",
+            "Seeking care for trauma and conflict-related injuries",
+            "The profound psychological impact of war and loss",
+            "Navigating a system where access to care is extremely limited",
+            "Discussing the management of chronic diseases without reliable access to medication",
+            "The role of international aid organizations in providing healthcare",
+            "Cultural beliefs about illness and healing in a time of crisis",
+            "The challenges of maternal and child health in a humanitarian emergency"
+        ]
+    },
+    {
+        "id": 19,
+        "participants": "Me (Patient) - Pharmacist",
+        "cultural_context": "Yemeni",
+        "domain": "At the Pharmacy",
+        "topics": [
+            "Inquiring about the availability of any life-saving medications",
+            "Asking for advice on how to manage symptoms when no doctor is available",
+            "Discussing the use of any available traditional or herbal remedies",
+            "Seeking information on how to obtain medications from humanitarian aid distributions",
+            "Asking about the cost and affordability of the very limited stock of medicines",
+            "Understanding how to ration or extend a limited supply of medication",
+            "Seeking basic wound care and antiseptic supplies",
+            "Inquiring about oral rehydration salts and nutritional supplements",
+            "Asking for any available pain relief or fever-reducing medication",
+            "The pharmacist's role as a primary source of health information in a crisis"
+        ]
+    }
+]

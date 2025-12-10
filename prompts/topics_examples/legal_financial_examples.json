@@ -1,0 +1,298 @@
+[
+    {
+    "id": 0,
+    "participants": "Me - Lawyer",
+    "cultural_context": "Moroccan",
+    "domain": "Lawyer-Client Consultation",
+    "topics": [
+        "Navigating the process of purchasing a riad or apartment in Marrakech as a foreigner",
+        "Understanding the legal framework for establishing a 'Société à Responsabilité Limitée' (SARL)",
+        "Filing for divorce or 'Tatliq' under the Moroccan Family Code (Moudawana)",
+        "Resolving a commercial dispute related to an international trade agreement with the EU",
+        "Registering a trademark with the Moroccan Office of Industrial and Commercial Property (OMPIC)",
+        "Advising on compliance with the Moroccan Labor Code for a new technology startup in Casablanca Finance City",
+        "Distribution of an estate according to Moroccan inheritance law and the impact of the 'Moudawana'",
+        "Understanding the litigation process in the Commercial Courts of Morocco",
+        "Drafting a 'bail commercial' (commercial lease) for a retail space in the Morocco Mall",
+        "Consulting on the legal requirements for establishing and operating a non-profit 'association' in Morocco"
+    ]
+},
+{
+    "id": 1,
+    "participants": "Me - Bank Teller",
+    "cultural_context": "Moroccan",
+    "domain": "Applying for a Loan/Mortgage",
+    "topics": [
+        "Applying for a 'Mourabaha' or 'Ijara' Islamic mortgage for a home",
+        "Securing a 'Damane Express' loan for a small artisan business",
+        "Discussing the terms for a 'crédit auto' with a local bank",
+        "Understanding the requirements for a personal loan to finance studies at a private university",
+        "Inquiring about opening a 'compte sur carnet' to build savings for a down payment"
+    ]
+},
+    {
+        "id": 0,
+        "participants": "Me - Lawyer",
+        "cultural_context": "Egyptian",
+        "domain": "Lawyer-Client Consultation",
+        "topics": [
+            "Navigating the process of purchasing real estate in the New Administrative Capital",
+            "Understanding the legal framework for foreign investment and company establishment",
+            "Filing for divorce or khul' under the Personal Status Law",
+            "Dispute resolution concerning an import/export contract",
+            "Registering a technology patent with the Egyptian Patent Office",
+            "Advising on labor law compliance for a new startup",
+            "Inheritance distribution according to Egyptian law",
+            "Litigation procedures in the Egyptian court system",
+            "Drafting a commercial lease agreement for a retail space in Cairo",
+            "Consulting on legal aspects of NGO registration and operation"
+        ]
+    },
+    {
+        "id": 1,
+        "participants": "Me - Bank Teller",
+        "cultural_context": "Egyptian",
+        "domain": "Applying for a Loan/Mortgage",
+        "topics": [
+            "Applying for a mortgage for a residential unit through the Central Bank of Egypt's financing initiative",
+            "Securing a small business loan from the National Bank of Egypt",
+            "Discussing the terms for a car loan with Banque Misr",
+            "Understanding the requirements for a personal loan for educational purposes",
+            "Opening a certificate of deposit to use as collateral"
+        ]
+    },
+    {
+        "id": 2,
+        "participants": "Me - Lawyer",
+        "cultural_context": "Syrian",
+        "domain": "Lawyer-Client Consultation",
+        "topics": [
+            "Verifying property ownership and addressing claims of dispossession post-conflict",
+            "Understanding the legal status of contracts entered into during the conflict",
+            "Navigating the process for obtaining a passport or other civil documents",
+            "Advising on business operations under current international sanctions",
+            "Resolving inheritance disputes for family members inside and outside Syria"
+        ]
+    },
+    {
+        "id": 3,
+        "participants": "Me - Bank Teller",
+        "cultural_context": "Syrian",
+        "domain": "Applying for a Loan/Mortgage",
+        "topics": [
+            "Inquiring about microfinance opportunities for small-scale entrepreneurs",
+            "Understanding the process for receiving international remittances",
+            "Discussing options for financing agricultural activities",
+            "Securing a loan for rebuilding a damaged home or business",
+            "Navigating the banking system with limited physical branch access"
+        ]
+    },
+    {
+        "id": 4,
+        "participants": "Me - Lawyer",
+        "cultural_context": "Palestinian",
+        "domain": "Lawyer-Client Consultation",
+        "topics": [
+            "Registering land in the West Bank and dealing with the Land and Water Settlement Commission",
+            "Establishing a non-profit organization in Ramallah",
+            "Navigating the legal complexities of cross-border trade",
+            "Understanding family law as applied in the Sharia courts",
+            "Advising on intellectual property rights for a tech startup"
+        ]
+    },
+    {
+        "id": 5,
+        "participants": "Me - Bank Teller",
+        "cultural_context": "Palestinian",
+        "domain": "Applying for a Loan/Mortgage",
+        "topics": [
+            "Applying for a mortgage with the Palestine Mortgage and Housing Corporation (PMHC)",
+            "Securing a business loan through a program supported by international donors",
+            "Discussing Islamic financing (Murabaha) for a vehicle purchase from the Arab Islamic Bank",
+            "Understanding the requirements for a student loan to study abroad",
+            "Opening an account to receive a salary from the Palestinian Authority"
+        ]
+    },
+    {
+        "id": 6,
+        "participants": "Me - Lawyer",
+        "cultural_context": "Jordanian",
+        "domain": "Lawyer-Client Consultation",
+        "topics": [
+            "Setting up a Limited Liability Company (LLC) under the Jordanian Companies Law",
+            "Advising on the legal requirements for foreign direct investment in a Special Economic Zone",
+            "Handling a case in the Jordanian Sharia courts regarding inheritance",
+            "Drafting employment contracts compliant with Jordanian Labor Law",
+            "Registering a trademark with the Ministry of Industry, Trade, and Supply"
+        ]
+    },
+    {
+        "id": 7,
+        "participants": "Me - Bank Teller",
+        "cultural_context": "Jordanian",
+        "domain": "Applying for a Loan/Mortgage",
+        "topics": [
+            "Applying for a housing loan from the Jordan Kuwait Bank",
+            "Discussing financing options for renewable energy projects (solar panels) for a home",
+            "Securing a personal loan for marriage expenses from the Arab Bank",
+            "Understanding the terms of a subsidized loan for an agricultural project",
+            "Inquiring about the 'Buy Now, Pay Later' financing options for electronics"
+        ]
+    },
+    {
+        "id": 8,
+        "participants": "Me - Lawyer",
+        "cultural_context": "Emirati",
+        "domain": "Lawyer-Client Consultation",
+        "topics": [
+            "Structuring a business setup in a free zone (e.g., DMCC, ADGM) versus the mainland",
+            "Advising on the purchase of freehold property in Dubai by a foreign national",
+            "Drafting a prenuptial agreement under the new civil family law for non-Muslims",
+            "Resolving a commercial dispute through the Dubai International Arbitration Centre (DIAC)",
+            "Understanding the implications of the UAE's new corporate tax law"
+        ]
+    },
+    {
+        "id": 9,
+        "participants": "Me - Bank Teller",
+        "cultural_context": "Emirati",
+        "domain": "Applying for a Loan/Mortgage",
+        "topics": [
+            "Applying for a mortgage for a villa in Abu Dhabi with First Abu Dhabi Bank (FAB)",
+            "Discussing a Tawarruq-based personal finance facility from Dubai Islamic Bank",
+            "Securing a high-value car loan for a luxury vehicle",
+            "Understanding the process for a 'rent-to-own' property financing scheme",
+            "Inquiring about wealth management services and investment-backed lending"
+        ]
+    },
+    {
+        "id": 10,
+        "participants": "Me - Lawyer",
+        "cultural_context": "Saudi Arabian",
+        "domain": "Lawyer-Client Consultation",
+        "topics": [
+            "Advising on the Saudi Foreign Investment Law (SAGIA) for setting up a 100% foreign-owned entity",
+            "Navigating the legal requirements for a NEOM or Red Sea Project subcontractor",
+            "Drafting technology transfer agreements in line with Vision 2030 goals",
+            "Understanding the regulations of the Capital Market Authority (CMA) for an IPO",
+            "Handling a labor dispute and understanding the Qiwa platform"
+        ]
+    },
+    {
+        "id": 11,
+        "participants": "Me - Bank Teller",
+        "cultural_context": "Saudi Arabian",
+        "domain": "Applying for a Loan/Mortgage",
+        "topics": [
+            "Applying for a REDF (Real Estate Development Fund) subsidized home loan through Al Rajhi Bank",
+            "Understanding Murabaha financing for purchasing a new vehicle",
+            "Securing project financing for a new manufacturing facility",
+            "Discussing the terms of a personal loan to cover emergency medical expenses",
+            "Opening a savings account linked to the national savings program"
+        ]
+    },
+    {
+        "id": 12,
+        "participants": "Me - Lawyer",
+        "cultural_context": "Algerian",
+        "domain": "Lawyer-Client Consultation",
+        "topics": [
+            "Navigating the '49/51' rule for foreign investment and its recent amendments",
+            "Understanding the Algerian Family Code in relation to marriage and divorce",
+            "Advising on contracts within the oil and gas sector with Sonatrach",
+            "Resolving a real estate dispute over property inherited from the French colonial era",
+            "Registering a company with the Centre National du Registre du Commerce (CNRC)"
+        ]
+    },
+    {
+        "id": 13,
+        "participants": "Me - Bank Teller",
+        "cultural_context": "Algerian",
+        "domain": "Applying for a Loan/Mortgage",
+        "topics": [
+            "Applying for a subsidized housing loan from the Crédit Populaire d'Algérie (CPA)",
+            "Securing a loan for the purchase of agricultural equipment through the Banque de l'Agriculture et du Développement Rural (BADR)",
+            "Discussing the 'Leasing Ijara' product for business equipment financing",
+            "Understanding the process for a youth employment loan (ANSEJ/CNAC)",
+            "Inquiring about foreign currency accounts for import/export businesses"
+        ]
+    },
+    {
+        "id": 14,
+        "participants": "Me - Lawyer",
+        "cultural_context": "Mauritanian",
+        "domain": "Lawyer-Client Consultation",
+        "topics": [
+            "Advising on the legal framework for investment in the fisheries or mining sectors",
+            "Understanding land tenure rights and formalizing land ownership",
+            "Drafting a partnership agreement for a new commercial venture in Nouakchott",
+            "Navigating the commercial court system for a contract dispute",
+            "Ensuring compliance with Mauritanian labor laws for a foreign company"
+        ]
+    },
+    {
+        "id": 15,
+        "participants": "Me - Bank Teller",
+        "cultural_context": "Mauritanian",
+        "domain": "Applying for a Loan/Mortgage",
+        "topics": [
+            "Inquiring about Islamic financing (Mourabaha) for a real estate purchase",
+            "Securing a microfinance loan for a small retail business",
+            "Discussing financing for the purchase of a fishing vessel",
+            "Understanding the requirements for a loan to invest in livestock",
+            "Opening an account to manage payments for an import-export business"
+        ]
+    },
+    {
+        "id": 16,
+        "participants": "Me - Lawyer",
+        "cultural_context": "Sudanese",
+        "domain": "Lawyer-Client Consultation",
+        "topics": [
+            "Advising on the legal implications of the Juba Peace Agreement on business and land rights",
+            "Structuring an investment in the agricultural sector, particularly for gum arabic or sesame",
+            "Navigating the process for company registration amidst political instability",
+            "Resolving commercial disputes with the ongoing dual-power structures",
+            "Understanding the legal framework governing mining and exploration licenses"
+        ]
+    },
+    {
+        "id": 17,
+        "participants": "Me - Bank Teller",
+        "cultural_context": "Sudanese",
+        "domain": "Applying for a Loan/Mortgage",
+        "topics": [
+            "Applying for an agricultural loan from the Agricultural Bank of Sudan",
+            "Discussing microcredit options for women-led initiatives",
+            "Understanding the process for currency exchange and transfers in a volatile market",
+            "Inquiring about financing for small-scale gold mining operations",
+            "Navigating banking services with potential disruptions and sanctions"
+        ]
+    },
+    {
+        "id": 18,
+        "participants": "Me - Lawyer",
+        "cultural_context": "Yemeni",
+        "domain": "Lawyer-Client Consultation",
+        "topics": [
+            "Verifying property deeds and addressing land disputes exacerbated by the conflict",
+            "Advising on the legality of business operations in different parts of the country",
+            "Navigating the fragmented legal and judicial systems",
+            "Providing legal assistance for internally displaced persons (IDPs) on documentation and rights",
+            "Understanding the legal framework for humanitarian organizations operating in Yemen"
+        ]
+    },
+    {
+        "id": 19,
+        "participants": "Me - Bank Teller",
+        "cultural_context": "Yemeni",
+        "domain": "Applying for a Loan/Mortgage",
+        "topics": [
+            "Understanding how to securely receive and send money through the Hawala network",
+            "Inquiring about the availability of microfinance for restarting a small business",
+            "Discussing the challenges of accessing funds from a bank account",
+            "Questions about the stability and exchange rates of different currencies in circulation",
+            "Clarifying the procedures for international humanitarian cash transfers"
+        ]
+    }
+]

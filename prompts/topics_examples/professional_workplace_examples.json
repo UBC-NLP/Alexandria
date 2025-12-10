@@ -1,0 +1,308 @@
+[
+    {
+        "id": 0,
+        "participants": "Me - Manager",
+        "cultural_context": "Moroccan",
+        "domain": "Performance Reviews",
+        "topics": [
+            "Discussing contributions to the 'New Development Model' (NDM) objectives for economic diversification",
+            "Evaluating performance on projects related to the 2030 FIFA World Cup infrastructure development",
+            "Planning professional development with institutions like Al Akhawayn University or ESCA Ecole de Management",
+            "Reviewing client relationships with partners in the Tanger Med Port Complex",
+            "Assessing team collaboration and communication within a family-oriented and hierarchical business culture",
+            "Setting goals for expanding Green Bonds and sustainable finance initiatives in the local market",
+            "Discussing work-life balance and productivity during Ramadan and other national holidays",
+            "Evaluating Arabic, French, and English language proficiency for pan-African leadership roles",
+            "Planning participation in the GITEX AFRICA technology conference in Marrakech",
+            "Reviewing compliance with the Moroccan Labour Code concerning employment contracts and working hours"
+        ]
+    },
+    {
+        "id": 1,
+        "participants": "Me - Client",
+        "cultural_context": "Moroccan",
+        "domain": "Sales Pitches",
+        "topics": [
+            "Proposing a new eco-tourism and cultural heritage package for the Atlas Mountains and historic medinas",
+            "Pitching advanced irrigation and agritech solutions for the 'Generation Green 2020-2030' agricultural strategy",
+            "Presenting cybersecurity and data analytics solutions for the 'Morocco Digital 2030' national strategy",
+            "Offering logistics and supply chain optimization for the automotive and aerospace manufacturing clusters",
+            "Proposing sustainable real estate development projects in new urban centers like Zenata",
+            "Pitching financial consulting and Islamic finance products for institutions like Attijariwafa Bank or Bank of Africa (BMCE)",
+            "Presenting digital marketing strategies for local cooperatives and artisanal craft exporters",
+            "Offering employee training programs in customer service and hospitality for the tourism sector",
+            "Proposing renewable energy solutions for industrial zones and manufacturing plants",
+            "Pitching smart city and sustainable mobility solutions for major cities like Casablanca and Rabat"
+        ]
+    },
+    {
+        "id": 0,
+        "participants": "Me - Manager",
+        "cultural_context": "Egyptian",
+        "domain": "Performance Reviews",
+        "topics": [
+            "Discussing contributions to the 'Egypt Vision 2030' renewable energy targets",
+            "Evaluating performance on the New Administrative Capital construction project",
+            "Planning professional development at the American University in Cairo (AUC)",
+            "Reviewing client relationships with partners in the Suez Canal Economic Zone",
+            "Assessing team collaboration and communication in a hierarchical business structure",
+            "Setting goals for expanding digital financial services in the local market",
+            "Discussing work-life balance and productivity during Ramadan",
+            "Evaluating Arabic and English language proficiency for regional leadership roles",
+            "Planning attendance at the EGYPS (Egypt Petroleum Show) conference",
+            "Reviewing compliance with Egyptian labor law regarding working hours and overtime"
+        ]
+    },
+    {
+        "id": 1,
+        "participants": "Me - Client",
+        "cultural_context": "Egyptian",
+        "domain": "Sales Pitches",
+        "topics": [
+            "Proposing a new tourism package for the Grand Egyptian Museum",
+            "Pitching sustainable agriculture technology for projects in the Nile Valley",
+            "Presenting IT infrastructure solutions for 'Digital Egypt' initiatives",
+            "Offering logistics and supply chain services for textile exporters",
+            "Proposing real estate development projects on the North Coast",
+            "Pitching financial consulting for firms like CIB or QNB Alahli",
+            "Presenting marketing strategies for local manufacturing companies like Elsewedy Electric",
+            "Offering employee training programs in hospitality management",
+            "Proposing petrochemical supply for industrial zones",
+            "Pitching smart city solutions for developments in New Cairo"
+        ]
+    },
+    {
+        "id": 2,
+        "participants": "Me - Manager",
+        "cultural_context": "Syrian",
+        "domain": "Performance Reviews",
+        "topics": [
+            "Evaluating performance in managing supply chains for food processing",
+            "Discussing contributions to textile production targets",
+            "Planning professional development in agricultural technology",
+            "Reviewing compliance with Syrian labor law 17/2010",
+            "Assessing adaptability and problem-solving in a challenging economic environment"
+        ]
+    },
+    {
+        "id": 3,
+        "participants": "Me - Client",
+        "cultural_context": "Syrian",
+        "domain": "Sales Pitches",
+        "topics": [
+            "Proposing logistics and transportation solutions for agricultural exports",
+            "Pitching reconstruction materials and engineering services for infrastructure projects",
+            "Presenting technology for improving efficiency in food processing plants",
+            "Offering consulting services for businesses navigating the local market",
+            "Proposing equipment and technology for the textile industry"
+        ]
+    },
+    {
+        "id": 4,
+        "participants": "Me - Manager",
+        "cultural_context": "Palestinian",
+        "domain": "Performance Reviews",
+        "topics": [
+            "Discussing performance in the stone and marble export sector",
+            "Evaluating contributions to IT service outsourcing projects",
+            "Planning professional development in agribusiness and food processing",
+            "Reviewing client relationships with international NGOs and development agencies",
+            "Assessing team collaboration in a consensus-oriented decision-making environment"
+        ]
+    },
+    {
+        "id": 5,
+        "participants": "Me - Client",
+        "cultural_context": "Palestinian",
+        "domain": "Sales Pitches",
+        "topics": [
+            "Proposing agricultural technology to improve olive oil production",
+            "Pitching software development services to regional and international clients",
+            "Presenting tourism packages focused on historical and religious sites",
+            "Offering consulting services for businesses supported by the Palestine Investment Fund",
+            "Proposing building materials for new construction projects in Ramallah"
+        ]
+    },
+    {
+        "id": 6,
+        "participants": "Me - Manager",
+        "cultural_context": "Jordanian",
+        "domain": "Performance Reviews",
+        "topics": [
+            "Discussing contributions to Jordan's Vision 2025 in the ICT sector",
+            "Evaluating performance in the pharmaceutical manufacturing division (e.g., Hikma Pharmaceuticals)",
+            "Planning leadership training with a focus on relationship-building",
+            "Reviewing client accounts in the tourism and hospitality sector",
+            "Assessing performance in potash and phosphate export logistics"
+        ]
+    },
+    {
+        "id": 7,
+        "participants": "Me - Client",
+        "cultural_context": "Jordanian",
+        "domain": "Sales Pitches",
+        "topics": [
+            "Proposing IT solutions to major banks like Arab Bank",
+            "Pitching marketing services for promoting medical tourism to Jordan",
+            "Presenting eco-tourism packages for destinations like Wadi Rum and Dana Biosphere Reserve",
+            "Offering logistics solutions for the garment and textile export industry",
+            "Proposing consulting services for renewable energy projects"
+        ]
+    },
+    {
+        "id": 8,
+        "participants": "Me - Manager",
+        "cultural_context": "Emirati",
+        "domain": "Performance Reviews",
+        "topics": [
+            "Discussing performance in achieving targets for the Dubai Tourism Strategy",
+            "Evaluating contributions to the UAE Centennial 2071 plan in the technology sector",
+            "Planning professional development in financial services and FinTech",
+            "Reviewing client relationships with international partners in Jebel Ali Free Zone",
+            "Assessing team collaboration in a fast-paced, multicultural environment"
+        ]
+    },
+    {
+        "id": 9,
+        "participants": "Me - Client",
+        "cultural_context": "Emirati",
+        "domain": "Sales Pitches",
+        "topics": [
+            "Proposing real estate investment opportunities in projects by Emaar",
+            "Pitching logistics and supply chain solutions for Dubai International Airport (DXB)",
+            "Presenting AI and smart city technologies to government entities",
+            "Offering luxury hospitality management services for hotel chains",
+            "Proposing financial advisory services to firms in the Abu Dhabi Global Market (ADGM)"
+        ]
+    },
+    {
+        "id": 10,
+        "participants": "Me - Manager",
+        "cultural_context": "Saudi Arabian",
+        "domain": "Performance Reviews",
+        "topics": [
+            "Evaluating individual contributions to Saudi Vision 2030 giga-projects like NEOM or the Red Sea Project",
+            "Discussing performance targets in the petrochemical sector (e.g., SABIC)",
+            "Planning leadership development with an emphasis on Vision 2030's goals",
+            "Reviewing compliance with nationalization (Saudization) targets",
+            "Assessing project management skills in large-scale construction projects"
+        ]
+    },
+    {
+        "id": 11,
+        "participants": "Me - Client",
+        "cultural_context": "Saudi Arabian",
+        "domain": "Sales Pitches",
+        "topics": [
+            "Proposing technology solutions for the development of smart cities within NEOM",
+            "Pitching entertainment and tourism projects in line with the Quality of Life Program",
+            "Presenting financial services to the Public Investment Fund (PIF)",
+            "Offering consulting on renewable energy projects to companies like ACWA Power",
+            "Proposing advanced manufacturing technologies to industrial companies"
+        ]
+    },
+    {
+        "id": 12,
+        "participants": "Me - Manager",
+        "cultural_context": "Algerian",
+        "domain": "Performance Reviews",
+        "topics": [
+            "Evaluating performance in the hydrocarbons sector (e.g., Sonatrach projects)",
+            "Discussing contributions to the government's economic diversification goals",
+            "Planning professional development in project management for infrastructure projects",
+            "Reviewing compliance with Algerian labor laws regarding working hours and contracts",
+            "Assessing language skills (Arabic/French) for business communications"
+        ]
+    },
+    {
+        "id": 13,
+        "participants": "Me - Client",
+        "cultural_context": "Algerian",
+        "domain": "Sales Pitches",
+        "topics": [
+            "Proposing technology and equipment for the oil and gas industry",
+            "Pitching construction and engineering services for new infrastructure projects",
+            "Presenting solutions for modernizing the agricultural sector",
+            "Offering logistics and transportation services for export-oriented businesses",
+            "Proposing joint ventures in the pharmaceutical manufacturing industry (e.g., with Saidal)"
+        ]
+    },
+    {
+        "id": 14,
+        "participants": "Me - Manager",
+        "cultural_context": "Mauritanian",
+        "domain": "Performance Reviews",
+        "topics": [
+            "Evaluating performance in iron ore and gold mining operations",
+            "Discussing contributions to the fishing and fish processing sector targets",
+            "Planning professional development in sustainable resource management",
+            "Reviewing relationships with international partners in the mining industry",
+            "Assessing team performance in a hierarchical and relationship-focused work environment"
+        ]
+    },
+    {
+        "id": 15,
+        "participants": "Me - Client",
+        "cultural_context": "Mauritanian",
+        "domain": "Sales Pitches",
+        "topics": [
+            "Proposing new technologies for mineral exploration and extraction",
+            "Pitching sustainable fishing practices and modern processing equipment",
+            "Presenting logistics and export services for iron ore and fish products",
+            "Offering consulting for the Grand Tortue/Ahmeyim natural gas project",
+            "Proposing renewable energy solutions (solar) for off-grid mining operations"
+        ]
+    },
+    {
+        "id": 16,
+        "participants": "Me - Manager",
+        "cultural_context": "Sudanese",
+        "domain": "Performance Reviews",
+        "topics": [
+            "Evaluating performance in achieving gold mining production targets",
+            "Discussing contributions to the agricultural sector, particularly in gum arabic and sesame exports",
+            "Planning professional development in logistics and supply chain management for export",
+            "Reviewing client relations with international buyers of agricultural commodities",
+            "Assessing adaptability and performance in a fluctuating economic context"
+        ]
+    },
+    {
+        "id": 17,
+        "participants": "Me - Client",
+        "cultural_context": "Sudanese",
+        "domain": "Sales Pitches",
+        "topics": [
+            "Proposing modern agricultural machinery and irrigation solutions",
+            "Pitching logistics and export services for gold and other mineral resources",
+            "Presenting technology for improving efficiency in food processing industries",
+            "Offering consulting services for navigating the local business environment",
+            "Proposing infrastructure development projects in the transportation sector"
+        ]
+    },
+    {
+        "id": 18,
+        "participants": "Me - Manager",
+        "cultural_context": "Yemeni",
+        "domain": "Performance Reviews",
+        "topics": [
+            "Evaluating performance in maintaining operations amidst challenging conditions",
+            "Discussing contributions to projects in the food processing and agricultural sectors",
+            "Planning professional development in risk management and business continuity",
+            "Reviewing relationships with international aid organizations and NGOs",
+            "Assessing problem-solving skills in logistics and supply chain disruptions"
+        ]
+    },
+    {
+        "id": 19,
+        "participants": "Me - Client",
+        "cultural_context": "Yemeni",
+        "domain": "Sales Pitches",
+        "topics": [
+            "Proposing logistics and secure transportation for humanitarian aid distribution",
+            "Pitching materials and services for infrastructure reconstruction projects",
+            "Presenting agricultural solutions to improve food security",
+            "Offering consulting services for businesses seeking to operate in Yemen",
+            "Proposing telecommunications infrastructure improvements"
+        ]
+    }
+]

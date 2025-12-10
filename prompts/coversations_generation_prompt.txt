@@ -1,0 +1,61 @@
+I have conversation scenarios for different topics within a specific domain. I want you to generate 1 short conversation for each topic, considering the mentioned participants and cultural context. The conversations should be written in English only, as I am planning to give them to a team of translators to translate them to the local dialect/language. Make sure that expressions that have equivalent expressions in English are already written using these equivalent English expressions.
+
+The output should be structured as JSON. For each topic, the conversation should be structured with each turn as a separate key.
+
+## Input Format:
+```json
+{{
+  "id": [number],
+  "participants": "[participant roles/descriptions]",
+  "cultural_context": "[country/culture]",
+  "domain": "[conversation domain]",
+  "topics": [
+    "topic 1 description",
+    "topic 2 description",
+    // ... additional topics
+  ]
+}}
+```
+
+## Expected Output Format:
+```json
+{{
+  "[domain]_conversations": [
+    {{
+      "id": 0,
+      "domain": "[domain]",
+      "topic": "[topic description]",
+      "participants": "[participant roles]",
+      "participant_genders": {{
+        "[participant1_role]": "[male/female]",
+        "[participant2_role]": "[male/female]"
+      }},
+      "cultural_context": "[country/culture]",
+      "conversation": {{
+        "turn1_[participant1]": "[first participant's opening statement/question]",
+        "turn2_[participant2]": "[second participant's response]",
+        "turn3_[participant1]": "[optional - first participant's follow-up]",
+        "turn4_[participant2]": "[optional - second participant's final response]"
+      }}
+    }},
+    // ... continue for all topics
+  ]
+}}
+```
+
+## Guidelines:
+- Each conversation should be 2-4 turns (adaptable based on topic complexity)
+- Keep conversations natural and contextually appropriate for the cultural setting
+- Include culture-specific terminology, practices, or references when relevant
+- Ensure conversations are realistic and representative of typical interactions in that domain
+- Use clear, translatable English that captures the essence of local expressions
+- Maintain consistency in participant roles throughout all conversations
+- **Gender considerations**: Ensure conversations are not biased toward any specific gender. Vary participant genders across different conversations to represent diverse scenarios. Always specify the gender of each participant in the output JSON under "participant_genders"
+- Please use English equivalents for all words, including terms like "invocations" and "greetings," instead of their Arabic counterparts
+- Please provide only the spoken dialogue, excluding any parenthetical descriptions, non-verbal actions, or stage directions
+
+---
+
+Here is my input:
+
+{topic_input}

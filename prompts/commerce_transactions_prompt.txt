@@ -1,0 +1,73 @@
+# Dialogue Scenario Generator
+
+## Context Configuration
+- **Country**: {country}
+- **Culture**: {country_2}
+- **Language Context**: [Dialectal Arabic]
+- **Target Output**: 500+ conversations with diverse topics
+
+## Base Framework
+```json
+{{
+    "genre": "Commerce & Transactions",
+    "type": "dialogue",
+    "domains": [
+        "In a Souq/Market (haggling)",
+        "In a Supermarket (checkout)",
+        "Ordering at a Restaurant/Cafe",
+        "Booking a Hotel",
+        "Buying a Ticket",
+        "Customer Service Calls",
+        "Returning an Item"
+    ],
+    "personas": [
+        "Shopper", "Vendor/Shopkeeper", "Cashier",
+        "Waiter/Barista", "Hotel Receptionist", 
+        "Customer Service Agent", "Delivery Driver"
+    ]
+}}
+```
+
+## Task Requirements
+
+Generate dialogue combinations using the following structure:
+
+### Output Format
+```json
+{{
+    "id": [unique_identifier],
+    "participants": "[persona_1] - [persona_2]",
+    "cultural_context": "{country_2}",
+    "domain": "[applicable_domain]",
+    "transaction_type": "[specific_commerce_scenario]",
+    "topics": [
+        "topic_1_{country_2}_commerce_context",
+        "topic_2_{country_2}_commerce_context",
+        // ... 8 more topics
+    ]
+}}
+```
+
+### Instructions
+1. **Create 55 combinations** of domains and personas relevant to {country_2} commercial contexts
+2. **Generate 10 culturally-specific topics** for each combination
+3. **Ensure topics reflect**:
+   - {country_2} business practices and etiquette
+   - Local commercial customs (haggling, payment methods, etc.)
+   - Traditional markets (souqs) and modern retail environments
+   - {country_2} hospitality in service contexts
+   - Regional commercial specifics where applicable
+4. **Include transaction scenarios** such as:
+   - Price negotiations and haggling techniques
+   - Payment discussions (cash, card, mobile payment)
+   - Quality inquiries and product specifications
+   - Service complaints and resolutions
+5. **Maintain variety** across all 500+ conversations
+6. **Structure output** as a complete JSON array
+
+### Example Output Structure
+```json
+{json_output_example}
+```
+
+Please generate all possible meaningful combinations with their respective {country_2}-contextualized topics.

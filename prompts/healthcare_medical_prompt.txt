@@ -1,0 +1,66 @@
+# Healthcare Dialogue Scenario Generator
+
+## Context Configuration
+- **Country**: {country}
+- **Culture**: {country_2}
+- **Healthcare System**: {country_2} public/private healthcare
+- **Language Context**: [Dialectal Arabic]
+- **Target Output**: 500+ medical conversations with diverse scenarios
+
+## Base Framework
+```json
+{{
+    "genre": "Healthcare & Medical",
+    "type": "dialogue",
+    "domains": [
+        "Doctor-Patient Consultation",
+        "At the Pharmacy",
+        "Emergency Room Intake",
+        "Scheduling an Appointment",
+        "Discussing Lab Results",
+        "Physical Therapy Session"
+    ],
+    "personas": [
+        "Doctor", "Specialist", "Nurse", "Patient",
+        "Pharmacist", "Medical Receptionist", "Paramedic", "Therapist"
+        ]
+    }}
+```
+
+## Task Requirements
+
+Generate dialogue combinations using the following structure:
+
+### Output Format
+```json
+{{
+    "id": [unique_identifier],
+    "participants": "[Me] - [persona]",
+    "cultural_context": "{country_2}",
+    "domain": "[applicable_domain]",
+    "topics": [
+        "topic_1_{country_2}_context",
+        "topic_2_{country_2}_context",
+        // ... 8 more topics
+    ]
+}}
+```
+
+### Instructions
+1. **Create 55 combinations** of medical domains and healthcare personas relevant to {country_2} healthcare contexts
+2. **Generate 10 medically-relevant topics** for each combination
+3. **Ensure topics reflect**:
+   - {country_2} healthcare system procedures
+   - Common health concerns in {country}
+   - Cultural attitudes toward healthcare and medicine
+   - Local medical terminology and practices
+   - Healthcare accessibility and insurance considerations
+4. **Maintain medical accuracy** and cultural sensitivity
+5. **Structure output** as a complete JSON array
+
+### Example Output Structure
+```json
+{json_output_example}
+```
+
+Please generate all possible meaningful combinations with their respective {country_2}-contextualized topics.

@@ -1,0 +1,421 @@
+[
+    {
+        "id": 0,
+        "participants": "Shopper - Vendor/Shopkeeper",
+        "cultural_context": "Moroccan",
+        "domain": "In a Souq/Market (haggling)",
+        "transaction_type": "Traditional market bargaining",
+        "topics": [
+            "Negotiating the price of handmade leather babouches (slippers)",
+            "Bargaining for a handwoven Berber carpet or rug",
+            "Haggling for spices like Ras el Hanout and saffron",
+            "Purchasing pure Argan oil and other natural cosmetics",
+            "Debating the cost of traditional metal lanterns and lamps",
+            "Getting a good deal on decorative ceramic tagines and plates",
+            "Discussing the price of silver Berber jewelry and accessories",
+            "Bargaining for a leather pouf or handbag",
+            "Negotiating for a traditional djellaba or kaftan",
+            "Haggling over the price of Moroccan mint tea sets (teapot and glasses)"
+        ]
+    },
+    {
+        "id": 1,
+        "participants": "Customer - Waiter/Barista",
+        "cultural_context": "Moroccan",
+        "domain": "Ordering at a Restaurant/Cafe",
+        "transaction_type": "Food service interaction",
+        "topics": [
+            "Ordering a classic Chicken with Preserved Lemon and Olives Tagine",
+            "Asking for the Friday special of 'Couscous with seven vegetables'",
+            "Inquiring about the soup of the day, often 'Harira'",
+            "Requesting a 'Pastilla' with chicken and almonds",
+            "Discussing the different types of Moroccan salads like 'Zaalouk' and 'Taktouka'",
+            "Ordering grilled 'Brochettes' (kebabs) of lamb or beef",
+            "Asking for traditional Moroccan mint tea, 'atay b'naanaa'",
+            "Inquiring about sweet pastries like 'Kaab el ghazal' (gazelle horns) and 'Chebakia'",
+            "Requesting a refreshing orange and cinnamon salad for dessert",
+            "Discussing the ingredients of a 'Tanjia Marrakshia'"
+        ]
+    },
+    {
+        "id": 0,
+        "participants": "Shopper - Vendor/Shopkeeper",
+        "cultural_context": "Egyptian",
+        "domain": "In a Souq/Market (haggling)",
+        "transaction_type": "Traditional market bargaining",
+        "topics": [
+            "Negotiating the price of handmade carpets and kilim",
+            "Bargaining for spices and herbs at Khan el-Khalili",
+            "Haggling for alabaster statues and souvenirs",
+            "Purchasing traditional glasswork and lanterns",
+            "Debating the cost of cotton galabeyas and textiles",
+            "Getting a good deal on brass and copperware",
+            "Discussing the price of papyrus scrolls and artwork",
+            "Bargaining for handmade leather bags and sandals",
+            "Negotiating for silver jewelry and cartouches",
+            "Haggling over the price of perfumes and essential oils"
+        ]
+    },
+    {
+        "id": 1,
+        "participants": "Customer - Waiter/Barista",
+        "cultural_context": "Egyptian",
+        "domain": "Ordering at a Restaurant/Cafe",
+        "transaction_type": "Food service interaction",
+        "topics": [
+            "Ordering a traditional 'Koshary' dish",
+            "Asking for 'Ful Medames' and 'Ta'ameya' for breakfast",
+            "Inquiring about the daily 'Tagine' special",
+            "Requesting 'Molokhia' with chicken or rabbit",
+            "Discussing the different types of 'Mahshi' (stuffed vegetables)",
+            "Ordering grilled 'Kofta' and 'Kebab'",
+            "Asking for a refreshing 'Karkadeh' (hibiscus tea)",
+            "Inquiring about the dessert 'Om Ali'",
+            "Requesting Egyptian mint tea, 'Shai bi na'na'",
+            "Discussing the spiciness level of a dish"
+        ]
+    },
+    {
+        "id": 2,
+        "participants": "Shopper - Vendor/Shopkeeper",
+        "cultural_context": "Syrian",
+        "domain": "In a Souq/Market (haggling)",
+        "transaction_type": "Traditional market bargaining",
+        "topics": [
+            "Negotiating the price of Damascene brocade and silk scarves",
+            "Bargaining for olive oil soap from Aleppo",
+            "Haggling for intricate wooden mosaic boxes",
+            "Purchasing traditional glassware and hookahs",
+            "Debating the cost of pistachios and dried apricots",
+            "Getting a good deal on silver and copperwork",
+            "Discussing the price of 'Aghabani' embroidered textiles",
+            "Bargaining for antique daggers and swords",
+            "Negotiating for hand-painted ceramics",
+            "Haggling over the price of aromatic spices and 'Za'atar'"
+        ]
+    },
+    {
+        "id": 3,
+        "participants": "Customer - Waiter/Barista",
+        "cultural_context": "Syrian",
+        "domain": "Ordering at a Restaurant/Cafe",
+        "transaction_type": "Food service interaction",
+        "topics": [
+            "Ordering a plate of 'Kibbeh' in its various forms (fried, grilled, raw)",
+            "Asking for a selection of 'Mezze' including 'Hummus' and 'Mutabbal'",
+            "Inquiring about the 'Fatteh' of the day",
+            "Requesting 'Kebab Halabi' (Aleppan Kebab)",
+            "Discussing the ingredients in 'Fattoush' salad",
+            "Ordering 'Mahashi' (stuffed vegetables) with lamb",
+            "Asking for a traditional 'Jallab' or 'Amar al-Din' drink",
+            "Inquiring about the famous Syrian ice cream 'Booza'",
+            "Requesting a pot of strong Syrian coffee",
+            "Discussing the preparation of 'Yabraq' (stuffed grape leaves)"
+        ]
+    },
+    {
+        "id": 4,
+        "participants": "Shopper - Vendor/Shopkeeper",
+        "cultural_context": "Palestinian",
+        "domain": "In a Souq/Market (haggling)",
+        "transaction_type": "Traditional market bargaining",
+        "topics": [
+            "Negotiating the price of hand-embroidered 'Thobes' and dresses",
+            "Bargaining for olive wood carvings and religious artifacts",
+            "Haggling for Hebron glass vases and jewelry",
+            "Purchasing Nabulsi soap made from olive oil",
+            "Debating the cost of fresh dates and olive oil",
+            "Getting a good deal on traditional ceramics and pottery",
+            "Discussing the price of 'Keffiyeh' scarves",
+            "Bargaining for mother-of-pearl crafts",
+            "Negotiating for local spices, including sumac and za'atar",
+            "Haggling over the price of handmade leather sandals"
+        ]
+    },
+    {
+        "id": 5,
+        "participants": "Customer - Waiter/Barista",
+        "cultural_context": "Palestinian",
+        "domain": "Ordering at a Restaurant/Cafe",
+        "transaction_type": "Food service interaction",
+        "topics": [
+            "Ordering the national dish, 'Musakhan'",
+            "Asking for 'Maqluba' with chicken or lamb",
+            "Inquiring about the best 'Knafeh' in town",
+            "Requesting a plate of 'Hummus' with 'Taboon' bread",
+            "Discussing the different fillings for 'Fatayer'",
+            "Ordering 'Waraq al-'Anab' (stuffed grape leaves)",
+            "Asking for a refreshing glass of 'Limonana' (mint lemonade)",
+            "Inquiring about the ingredients in 'Salata Falahiyeh' (farmer's salad)",
+            "Requesting a serving of 'Qidreh', a spiced rice and meat dish",
+            "Discussing the cheese used in 'Halloumi' dishes"
+        ]
+    },
+    {
+        "id": 6,
+        "participants": "Shopper - Vendor/Shopkeeper",
+        "cultural_context": "Jordanian",
+        "domain": "In a Souq/Market (haggling)",
+        "transaction_type": "Traditional market bargaining",
+        "topics": [
+            "Negotiating the price of mosaic artwork from Madaba",
+            "Bargaining for Dead Sea mud and salt products",
+            "Haggling for Bedouin jewelry and crafts",
+            "Purchasing hand-woven rugs and carpets",
+            "Debating the cost of traditional pottery and ceramics",
+            "Getting a good deal on inlaid wooden boxes",
+            "Discussing the price of the red and white 'Shemagh' (headdress)",
+            "Bargaining for sand bottles with intricate designs",
+            "Negotiating for locally grown dates and nuts",
+            "Haggling over the price of silver daggers ('Shibriya')"
+        ]
+    },
+    {
+        "id": 7,
+        "participants": "Customer - Waiter/Barista",
+        "cultural_context": "Jordanian",
+        "domain": "Ordering at a Restaurant/Cafe",
+        "transaction_type": "Food service interaction",
+        "topics": [
+            "Ordering the national dish, 'Mansaf'",
+            "Asking for 'Zarb', a Bedouin barbecue dish",
+            "Inquiring about the daily selection of 'Mezze'",
+            "Requesting 'Galayet Bandora', a tomato and meat stew",
+            "Discussing the different types of 'Kibbeh'",
+            "Ordering 'Maqluba', the upside-down rice and vegetable dish",
+            "Asking for a pot of traditional Bedouin coffee",
+            "Inquiring about the sweet dessert 'Hareeseh'",
+            "Requesting a glass of 'Loomi' (dried lime) drink",
+            "Discussing the preparation of 'Rashof', a lentil and yogurt soup"
+        ]
+    },
+    {
+        "id": 8,
+        "participants": "Shopper - Vendor/Shopkeeper",
+        "cultural_context": "Emirati",
+        "domain": "In a Souq/Market (haggling)",
+        "transaction_type": "Traditional market bargaining",
+        "topics": [
+            "Negotiating the price of gold jewelry in the Gold Souk",
+            "Bargaining for oud perfume and bakhoor (incense)",
+            "Haggling for Persian carpets and rugs",
+            "Purchasing high-quality dates and date products",
+            "Debating the cost of camel milk chocolate",
+            "Getting a good deal on traditional 'Abayas' and 'Kanduras'",
+            "Discussing the price of Arabic coffee pots ('Dallah') and cups",
+            "Bargaining for spices in the Spice Souk",
+            "Negotiating for intricate lanterns and lamps",
+            "Haggling over the price of pashmina shawls and scarves"
+        ]
+    },
+    {
+        "id": 9,
+        "participants": "Customer - Waiter/Barista",
+        "cultural_context": "Emirati",
+        "domain": "Ordering at a Restaurant/Cafe",
+        "transaction_type": "Food service interaction",
+        "topics": [
+            "Ordering the traditional Emirati dish 'Al Harees'",
+            "Asking for 'Al Machboos', a spiced rice and meat dish",
+            "Inquiring about 'Luqaimat', sweet dumplings for dessert",
+            "Requesting 'Balaleet', a sweet and savory breakfast vermicelli",
+            "Discussing the ingredients in 'Thareed', a meat and vegetable stew",
+            "Ordering grilled fish, a staple of the coastal cuisine",
+            "Asking for a pot of Arabic coffee served with dates",
+            "Inquiring about the different types of fresh juices available",
+            "Requesting 'Samboosa', a popular fried pastry snack",
+            "Discussing the availability of camel meat dishes"
+        ]
+    },
+    {
+        "id": 10,
+        "participants": "Shopper - Vendor/Shopkeeper",
+        "cultural_context": "Saudi Arabian",
+        "domain": "In a Souq/Market (haggling)",
+        "transaction_type": "Traditional market bargaining",
+        "topics": [
+            "Negotiating the price of gold and jewelry",
+            "Bargaining for different varieties of dates",
+            "Haggling for traditional 'Abayas' and 'Thobes'",
+            "Purchasing oud and other traditional perfumes",
+            "Debating the cost of 'Dallah' (Arabic coffee pots)",
+            "Getting a good deal on prayer rugs and beads",
+            "Discussing the price of camel leather goods",
+            "Bargaining for spices and incense ('Bakhoor')",
+            "Negotiating for antique silver jewelry",
+            "Haggling over the price of Miswak (natural toothbrush)"
+        ]
+    },
+    {
+        "id": 11,
+        "participants": "Customer - Waiter/Barista",
+        "cultural_context": "Saudi Arabian",
+        "domain": "Ordering at a Restaurant/Cafe",
+        "transaction_type": "Food service interaction",
+        "topics": [
+            "Ordering the national dish, 'Kabsa'",
+            "Asking for 'Mandi' or 'Madfoon' (slow-cooked meat and rice)",
+            "Inquiring about 'Jareesh', a crushed wheat and meat dish",
+            "Requesting 'Saleeg', a white rice and chicken dish",
+            "Discussing the different types of bread like 'Tamees' and 'Kubz'",
+            "Ordering a platter of grilled meats ('Mashwi')",
+            "Asking for Arabic coffee ('Gahwa') and dates",
+            "Inquiring about the sweet dish 'Areekah'",
+            "Requesting a 'Ful Medames' breakfast with local bread",
+            "Discussing the level of spice in the dishes"
+        ]
+    },
+    {
+        "id": 12,
+        "participants": "Shopper - Vendor/Shopkeeper",
+        "cultural_context": "Algerian",
+        "domain": "In a Souq/Market (haggling)",
+        "transaction_type": "Traditional market bargaining",
+        "topics": [
+            "Negotiating the price of Berber carpets and rugs",
+            "Bargaining for traditional silver jewelry from the Tuareg people",
+            "Haggling for leather goods, such as bags and poufs",
+            "Purchasing 'Djellabas' and other traditional garments",
+            "Debating the cost of local spices, including Ras el Hanout",
+            "Getting a good deal on hand-painted ceramics from the Casbah",
+            "Discussing the price of copper and brass trays",
+
+            "Bargaining for dates and other dried fruits",
+            "Negotiating for traditional Algerian musical instruments",
+            "Haggling over the price of handmade knives and daggers"
+        ]
+    },
+    {
+        "id": 13,
+        "participants": "Customer - Waiter/Barista",
+        "cultural_context": "Algerian",
+        "domain": "Ordering at a Restaurant/Cafe",
+        "transaction_type": "Food service interaction",
+        "topics": [
+            "Ordering a traditional 'Couscous' with vegetables and meat",
+            "Asking for 'Chakchouka', a dish of eggs poached in a tomato sauce",
+            "Inquiring about the daily 'Tajine' special",
+            "Requesting 'Rechta', a type of thin noodle dish",
+            "Discussing the different fillings for 'Bourek' (savory pastries)",
+            "Ordering 'Méchoui', a whole roasted lamb or mutton",
+            "Asking for a glass of sweet mint tea",
+            "Inquiring about the soup 'Chorba Frik'",
+            "Requesting 'Lham Lahlou', a sweet and savory lamb dish",
+            "Discussing the ingredients in 'Harira' soup"
+        ]
+    },
+    {
+        "id": 14,
+        "participants": "Shopper - Vendor/Shopkeeper",
+        "cultural_context": "Mauritanian",
+        "domain": "In a Souq/Market (haggling)",
+        "transaction_type": "Traditional market bargaining",
+        "topics": [
+            "Negotiating the price of colorful 'Melahfa' (women's wraps)",
+            "Bargaining for silver jewelry and beads",
+            "Haggling for handcrafted leather goods like sandals and bags",
+            "Purchasing 'Daraa' (men's robes)",
+            "Debating the cost of camel saddles and adornments",
+            "Getting a good deal on woven mats and textiles",
+            "Discussing the price of gum arabic",
+            "Bargaining for traditional wooden bowls and utensils",
+            "Negotiating for local teas and herbs",
+            "Haggling over the price of dried fish"
+        ]
+    },
+    {
+        "id": 15,
+        "participants": "Customer - Waiter/Barista",
+        "cultural_context": "Mauritanian",
+        "domain": "Ordering at a Restaurant/Cafe",
+        "transaction_type": "Food service interaction",
+        "topics": [
+            "Ordering the national dish, 'Thieboudienne' (fish and rice)",
+            "Asking for 'Méchoui' (grilled lamb)",
+            "Inquiring about 'Yassa Poulet' (chicken with onions)",
+            "Requesting a dish with camel meat",
+            "Discussing the different types of couscous available",
+            "Ordering 'Maru we-llham' (meat with rice)",
+            "Asking for a traditional Mauritanian tea ceremony (three glasses)",
+            "Inquiring about 'Hakko', a sauce made from ground bean leaves",
+            "Requesting a glass of 'Zrig' (fermented camel's milk)",
+            "Discussing the preparation of fish balls ('Boulettes de Poisson')"
+        ]
+    },
+    {
+        "id": 16,
+        "participants": "Shopper - Vendor/Shopkeeper",
+        "cultural_context": "Sudanese",
+        "domain": "In a Souq/Market (haggling)",
+        "transaction_type": "Traditional market bargaining",
+        "topics": [
+            "Negotiating the price of gold jewelry in Omdurman's souk",
+            "Bargaining for ivory and ebony carvings (note on legality/ethics)",
+            "Haggling for colorful 'Tobe' (women's garments)",
+            "Purchasing leather goods, including bags and sandals",
+            "Debating the cost of silverwork and handicrafts",
+            "Getting a good deal on spices and hibiscus flowers for 'Karkade'",
+            "Discussing the price of Sudanese coffee beans",
+            "Bargaining for hand-woven baskets and mats",
+            "Negotiating for traditional musical instruments like the 'oud'",
+            "Haggling over the price of peanuts and sesame seeds"
+        ]
+    },
+    {
+        "id": 17,
+        "participants": "Customer - Waiter/Barista",
+        "cultural_context": "Sudanese",
+        "domain": "Ordering at a Restaurant/Cafe",
+        "transaction_type": "Food service interaction",
+        "topics": [
+            "Ordering 'Ful Medames' for breakfast",
+            "Asking for 'Kisra' (sorghum pancakes) with a stew",
+            "Inquiring about 'Aseeda', a porridge-like dish",
+            "Requesting 'Goraasa', a wheat pancake with meat sauce",
+            "Discussing the ingredients in 'Mullah', a savory stew",
+            "Ordering grilled meats, particularly lamb",
+            "Asking for a glass of 'Karkade' (hibiscus tea)",
+            "Inquiring about Sudanese coffee ('Jebena') and its ceremony",
+            "Requesting 'Ta'ameya' (Sudanese falafel)",
+            "Discussing the use of 'Waika' (dried okra) in dishes"
+        ]
+    },
+    {
+        "id": 18,
+        "participants": "Shopper - Vendor/Shopkeeper",
+        "cultural_context": "Yemeni",
+        "domain": "In a Souq/Market (haggling)",
+        "transaction_type": "Traditional market bargaining",
+        "topics": [
+            "Negotiating the price of a 'Jambiya' (traditional dagger)",
+            "Bargaining for silver jewelry from the Souk al-Milh",
+            "Haggling for Yemeni coffee beans",
+            "Purchasing high-quality honey from Wadi Do'an",
+            "Debating the cost of spices, especially cumin and coriander",
+            "Getting a good deal on colorful textiles and shawls",
+            "Discussing the price of traditional clothing for men and women",
+            "Bargaining for stained glass windows ('Qamariya')",
+            "Negotiating for incense and frankincense",
+            "Haggling over the price of handmade pottery"
+        ]
+    },
+    {
+        "id": 19,
+        "participants": "Customer - Waiter/Barista",
+        "cultural_context": "Yemeni",
+        "domain": "Ordering at a Restaurant/Cafe",
+        "transaction_type": "Food service interaction",
+        "topics": [
+            "Ordering the national dish, 'Saltah'",
+            "Asking for 'Fahsa', a meat stew served in a stone pot",
+            "Inquiring about 'Mandi' or 'Madfoon' (slow-cooked meat with rice)",
+            "Requesting 'Aseed', a doughy dish served with broth",
+            "Discussing the different types of bread like 'Malooga' and 'Khobz'",
+            "Ordering 'Shafut', a cold bread and yogurt dish",
+            "Asking for a cup of 'Qishr' (coffee husk tea)",
+            "Inquiring about 'Bint Al Sahn', a sweet honey cake",
+            "Requesting 'Zerbian', a layered rice and meat dish",
+            "Discussing the availability of fresh fish dishes"
+        ]
+    }
+]
