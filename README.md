@@ -12,6 +12,8 @@
 [![Task](https://img.shields.io/badge/Task-Dialectal%20Arabic%20MT-1d4ed8.svg)](https://arxiv.org/abs/2601.13099)
 [![Countries](https://img.shields.io/badge/Countries-13-0b7285.svg)](https://arxiv.org/abs/2601.13099)
 [![Domains](https://img.shields.io/badge/Domains-11-0b7285.svg)](https://arxiv.org/abs/2601.13099)
+[![Website](https://img.shields.io/badge/Website-alexandria.dlnlp.ai-0f766e.svg)](https://alexandria.dlnlp.ai/)
+[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow.svg)](https://huggingface.co/datasets/UBC-NLP/alexandria)
 [![Translation Guidelines](https://img.shields.io/badge/Translation-Guidelines-green.svg)](guidelines/Alexandria_MT_Translation_Phase_Guidelines.pdf)
 [![Revision Guidelines](https://img.shields.io/badge/Revision-Guidelines-green.svg)](guidelines/Alexandria_MT_Revision_Phase_Guidelines.pdf)
 
@@ -36,6 +38,29 @@ Alexandria is organized into four standard benchmark splits:
 - `Private Test`
 
 The `Public Test` split is intended for open benchmarking and reproducible reporting, while the `Private Test` split supports held-out evaluation.
+
+## 📦 Dataset Access
+You can access Alexandria directly from Hugging Face using the `datasets` library. The example below loads a specific country subset and reads the first English and dialectal turns from the training split.
+
+- Hugging Face dataset: [UBC-NLP/alexandria](https://huggingface.co/datasets/UBC-NLP/alexandria)
+
+```python
+from datasets import load_dataset
+
+# Load a specific country subset (e.g., 'MA' for Morocco, 'EG' for Egypt)
+dataset = load_dataset("UBC-NLP/alexandria", name="MA")
+
+# Access the train split (choose test if you want to access the public test)
+train_data = dataset['train']
+
+# View the first parallel turn of the first conversation
+first_conv = train_data[0]
+eng_turn = first_conv['english_conversation'][0]
+dialect_turn = first_conv['dialectal_conversation'][0]
+
+print(f"English: {eng_turn['text']}")
+print(f"Dialect: {dialect_turn['text']}")
+```
 
 The 13 dialect settings covered in Alexandria are **Jordanian Arabic**, **Lebanese Arabic**, **Palestinian Arabic**, **Syrian Arabic**, **Saudi Arabic**, **Omani Arabic**, **Yemeni Arabic**, **Egyptian Arabic**, **Sudanese Arabic**, **Libyan Arabic**, **Moroccan Arabic**, **Mauritanian Arabic**, and **Tunisian Arabic**.
 
