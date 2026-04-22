@@ -44,16 +44,15 @@ You can access Alexandria directly from Hugging Face using the `datasets` librar
 
 - Hugging Face dataset: [UBC-NLP/alexandria](https://huggingface.co/datasets/UBC-NLP/alexandria)
 
+
 ```python
 from datasets import load_dataset
 
-# Load a specific country subset (e.g., 'MA' for Morocco, 'EG' for Egypt)
-dataset = load_dataset("UBC-NLP/alexandria", name="MA")
+# Load a specific country subset (e.g., 'MA' for Morocco, 'EG' for Egypt) with a specific split
+train_data = load_dataset("UBC-NLP/alexandria", name="MA", split="train")
+test_data = load_dataset("UBC-NLP/alexandria", name="MA", split="test")
 
-# Access the train split (choose test if you want to access the public test)
-train_data = dataset['train']
-
-# View the first parallel turn of the first conversation
+# View the first parallel turn of the first conversation from the train set
 first_conv = train_data[0]
 eng_turn = first_conv['english_conversation'][0]
 dialect_turn = first_conv['dialectal_conversation'][0]
