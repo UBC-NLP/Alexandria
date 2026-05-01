@@ -27,7 +27,7 @@ This repository organizes the Alexandria resources used across the creation work
 **Keywords:** dialectal Arabic machine translation, Arabic dialect translation, conversational machine translation, multi-turn MT, city-level dialect benchmarking, English-dialect parallel data, culturally grounded Arabic NLP, code-switching, persona-aware translation, gender-conditioned translation, Arabic LLM evaluation.
 
 ## 📊 Dataset Statistics
-Alexandria contains `106,990` total turns (`~107K`) across 13 Arab country contexts and 11 domains. The dataset is city-level, multi-turn, English `<->` Dialect Arabic, averages `13.23` words per turn, and has `0.826` Distinct-2 lexical diversity.
+Alexandria contains `107,631` total turns across 13 Arab country contexts and 11 domains. The dataset is city-level, multi-turn, English `<->` Dialect Arabic, averages `13.23` words per turn, and has `0.826` Distinct-2 lexical diversity.
 
 ## 🧪 Dataset Splits
 Alexandria is organized into four standard benchmark splits:
