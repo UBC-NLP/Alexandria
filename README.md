@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="images/alexandria_overview.webp" alt="Alexandria dataset overview">
+  <img src="images/alexandria_overview.png" alt="Alexandria dataset overview">
 </p>
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv%202601.13099-b31b1b.svg)](https://arxiv.org/abs/2601.13099)
